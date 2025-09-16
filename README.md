@@ -84,15 +84,6 @@ const ridoan = {
 
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=your-project-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Ridoan-75/your-project-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Ridoan-75/another-project)
-
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
