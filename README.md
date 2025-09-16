@@ -39,7 +39,7 @@ const ridoan = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Styling & UI
+### Styling & UI Frameworks
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -47,13 +47,14 @@ const ridoan = {
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Technologies
+### Development Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📊 GitHub Analytics
 
@@ -70,14 +71,16 @@ const ridoan = {
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
+
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
+
 <div align="center">
   
 [![Ridoan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -93,7 +96,18 @@ const ridoan = {
 
 </div>
 
-## 🤝 Connect With Me
+> **Note:** Replace `your-project-name` and `another-project` with your actual repository names.
+
+## 🎯 Current Goals for 2025
+
+- 🌱 Master **Advanced React Patterns** and **State Management**
+- 🏗️ Learn **System Design** and **Microservices Architecture**
+- 📱 Build **Cross-platform Mobile Apps** with React Native
+- 🚀 Contribute to **Open Source** projects regularly
+- 📚 Complete **5+ Full Stack Projects** with modern tech stack
+- 🎨 Enhance **UI/UX Design** skills and build a design portfolio
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -105,26 +119,19 @@ const ridoan = {
 
 </div>
 
-## 💡 Quote of the Day
+## 💫 Daily Motivation
+
 <div align="center">
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
-## 🎯 Current Goals for 2024
-
-- 🌱 Master **Full Stack Development** with MERN stack
-- 🎨 Improve **UI/UX Design** skills
-- 📱 Learn **React Native** for mobile development
-- 🚀 Contribute to **Open Source** projects
-- 📚 Build **5+ major projects**
-
 ---
 
 <div align="center">
   
-**⭐️ From [Ridoan-75](https://github.com/Ridoan-75)
+**✨ Thanks for visiting my profile! Let's build something amazing together! ✨**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
