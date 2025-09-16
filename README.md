@@ -124,7 +124,7 @@ const ridoan = {
 
 <div align="center">
   
-**⭐️ From [Ridoan-75](https://github.com/Ridoan-75) | Made with ❤️ in Bangladesh**
+**⭐️ From [Ridoan-75](https://github.com/Ridoan-75)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
