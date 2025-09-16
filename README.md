@@ -9,10 +9,6 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Crafting+Digital+Experiences;💻+Full+Stack+Web+Developer;🎨+UI%2FUX+Designer+%7C+Problem+Solver;🌟+Always+Building+Something+Amazing)](https://git.io/typing-svg)
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Ridoan-75&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Ridoan-75?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=000000)](https://github.com/Ridoan-75)
 [![GitHub stars](https://img.shields.io/github/stars/Ridoan-75?label=STARS&style=for-the-badge&color=00d9ff&labelColor=000000)](https://github.com/Ridoan-75)
