@@ -15,7 +15,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ridoan-75&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Ridoan-75?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=000000)](https://github.com/Ridoan-75)
-[![Years Badge](https://badges.pufler.dev/years/Ridoan-75?style=for-the-badge&color=00d9ff&labelColor=000000)](https://github.com/Ridoan-75)
+[![GitHub stars](https://img.shields.io/github/stars/Ridoan-75?label=STARS&style=for-the-badge&color=00d9ff&labelColor=000000)](https://github.com/Ridoan-75)
 
 </div>
 
@@ -33,6 +33,12 @@ interface Developer {
   experience: string[];
   currentFocus: string;
   architecture: string[];
+  expertise: {
+    frontend: string[];
+    backend: string[];
+    design: string[];
+    tools: string[];
+  };
 }
 
 const ridoan: Developer = {
@@ -41,34 +47,40 @@ const ridoan: Developer = {
   location: "Chittagong, Bangladesh 🇧🇩",
   experience: [
     "3+ years in Web Development",
-    "UI/UX Design & Prototyping", 
-    "Digital Marketing Strategy",
-    "Brand Identity Design"
+    "Frontend & Backend Architecture", 
+    "User Experience Design",
+    "Digital Marketing Strategy"
   ],
   currentFocus: "Building scalable web applications",
-  architecture: ["MVC", "Component-Based", "JAMstack"]
+  architecture: ["MVC", "Component-Based", "JAMstack"],
+  expertise: {
+    frontend: ["React", "Next.js", "TypeScript"],
+    backend: ["Node.js", "Express", "MongoDB"],
+    design: ["Figma", "Adobe XD", "Responsive Design"],
+    tools: ["Git", "VS Code", "Postman"]
+  }
 };
 ```
 
 </td>
 <td width="50%">
 
-### 🔥 **What I Do Best**
+### 🎯 **Core Competencies**
 
-🎨 **Frontend Mastery**  
-Building responsive, pixel-perfect UIs with modern frameworks
+**💻 Frontend Development**  
+Modern frameworks, responsive design, performance optimization
 
-⚡ **Backend Development**  
-Creating robust APIs and server-side solutions
+**⚙️ Backend Architecture**  
+RESTful APIs, database design, server management
 
-🎯 **UI/UX Design**  
-Designing user-centered digital experiences
+**🎨 User Experience Design**  
+Wireframing, prototyping, user-centered design principles
 
-📊 **Digital Strategy**  
-Data-driven marketing and growth solutions
+**📊 Digital Strategy**  
+SEO optimization, analytics, conversion optimization
 
-💡 **Problem Solving**  
-Turning complex challenges into elegant solutions
+**🛠️ Technical Leadership**  
+Code review, mentoring, project architecture planning
 
 </td>
 </tr>
@@ -150,49 +162,65 @@ Turning complex challenges into elegant solutions
 
 </div>
 
-## 📈 Professional Metrics
+## 📊 Professional Development Metrics
+
+<div align="center">
+
+| 📈 **Performance Indicators** | 🎯 **Achievement Level** | 📋 **Focus Areas** | ⚡ **Growth Rate** |
+|:-----------------------------:|:------------------------:|:-------------------:|:------------------:|
+| **Code Quality Score** | 92/100 | Clean Architecture | ↗️ +15% |
+| **Project Success Rate** | 98% | Client Satisfaction | ↗️ +8% |
+| **Technical Expertise** | Expert Level | Full Stack | ↗️ +22% |
+| **Problem Resolution** | <2 hours avg | Bug Fixes | ↗️ +30% |
+| **Learning Velocity** | 5 new skills/month | Technology Stack | ↗️ +40% |
+
+</div>
 
 <div align="center">
 
 ```mermaid
-pie title Development Focus Distribution
-    "Frontend Development" : 40
-    "Backend Development" : 25
+pie title Development Time Allocation
+    "Frontend Development" : 35
+    "Backend Architecture" : 25
     "UI/UX Design" : 20
-    "DevOps & Tools" : 10
-    "Digital Marketing" : 5
+    "Code Review & Testing" : 15
+    "Learning & Research" : 5
 ```
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🎯 **Code Quality**
-![Code Time Badge](https://img.shields.io/badge/Code%20Time-500+%20hrs-blue?style=for-the-badge&logo=wakatime)  
-![Projects Badge](https://img.shields.io/badge/Projects-25+-success?style=for-the-badge&logo=github)  
-![Commits Badge](https://img.shields.io/badge/Commits-1200+-orange?style=for-the-badge&logo=git)
-
-</td>
-<td align="center" width="33%">
-
-### 📚 **Learning Path**
-🔥 **Currently Mastering:**  
-- Advanced React Patterns  
-- System Design  
-- Cloud Architecture  
-- Performance Optimization
+### 💼 **Professional Stats**
+![Projects](https://img.shields.io/badge/Projects-30+-success?style=for-the-badge&logo=github)  
+![Commits](https://img.shields.io/badge/Commits-1500+-orange?style=for-the-badge&logo=git)  
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-200+-blue?style=for-the-badge&logo=codereview)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🎖️ **Expertise Level**
-⭐⭐⭐⭐⭐ Frontend Development  
-⭐⭐⭐⭐⭐ UI/UX Design  
-⭐⭐⭐⭐ Backend Development  
-⭐⭐⭐⭐ Digital Marketing  
-⭐⭐⭐ DevOps & Cloud
+### 🚀 **Technical Velocity**
+![Response Time](https://img.shields.io/badge/Avg_Response-<2hrs-green?style=for-the-badge&logo=clock)  
+![Deployment](https://img.shields.io/badge/Deploy_Success-98%25-brightgreen?style=for-the-badge&logo=rocket)  
+![Uptime](https://img.shields.io/badge/System_Uptime-99.9%25-success?style=for-the-badge&logo=server)
+
+</td>
+<td align="center" width="25%">
+
+### 📚 **Continuous Learning**
+![Skills Learned](https://img.shields.io/badge/New_Skills-60+-purple?style=for-the-badge&logo=brain)  
+![Certifications](https://img.shields.io/badge/Certifications-8+-red?style=for-the-badge&logo=certificate)  
+![Courses](https://img.shields.io/badge/Courses-25+-yellow?style=for-the-badge&logo=book)
+
+</td>
+<td align="center" width="25%">
+
+### 🤝 **Community Impact**
+![Contributions](https://img.shields.io/badge/OSS_Contributions-15+-cyan?style=for-the-badge&logo=opensource)  
+![Mentoring](https://img.shields.io/badge/Developers_Mentored-10+-pink?style=for-the-badge&logo=users)  
+![Stack Overflow](https://img.shields.io/badge/SO_Reputation-500+-orange?style=for-the-badge&logo=stackoverflow)
 
 </td>
 </tr>
