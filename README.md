@@ -1,21 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a0a0a,60:111111,100:000000&height=260&section=header&text=MD%20RIDOAN&fontSize=80&fontColor=ffffff&fontAlignY=45&fontWeight=900&animation=fadeIn&desc=───────────────────────────────────&descSize=12&descAlignY=62&descAlign=50" width="100%"/>
+<!--  FULL WIDTH CODING VIDEO / GIF — game intro style  -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="display:block;margin:0;padding:0;" alt="coding"/>
 
-</div>
+<!--  GAME-STYLE TITLE OVERLAY — typed on top  -->
+<br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=52&duration=2000&pause=99999&color=FFFFFF&background=00000000&center=true&vCenter=true&repeat=false&width=900&height=80&lines=MD+RIDOAN)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;UI+%2F+UX+DESIGNER;DIGITAL+MARKETING+SPECIALIST;CHITTAGONG+%E2%80%94+BANGLADESH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=4000&pause=99999&color=AAAAAA&center=true&vCenter=true&repeat=false&width=900&height=30&lines=FULL+STACK+DEVELOPER+%2F+UI-UX+DESIGNER+%2F+DIGITAL+MARKETER+%E2%80%94+CHITTAGONG%2C+BANGLADESH)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://img.shields.io/badge/-REACT-fff?style=flat-square&logo=react&logoColor=000)
-![](https://img.shields.io/badge/-NEXT.JS-fff?style=flat-square&logo=next.js&logoColor=000)
-![](https://img.shields.io/badge/-NODE.JS-fff?style=flat-square&logo=node.js&logoColor=000)
-![](https://img.shields.io/badge/-MONGODB-fff?style=flat-square&logo=mongodb&logoColor=000)
-![](https://img.shields.io/badge/-TYPESCRIPT-fff?style=flat-square&logo=typescript&logoColor=000)
-![](https://img.shields.io/badge/-FIGMA-fff?style=flat-square&logo=figma&logoColor=000)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=_%3E+building+production-grade+web+apps...;_%3E+react+%7C+next.js+%7C+node+%7C+mongodb;_%3E+cricket+%F0%9F%8F%8F+%7C+football+%E2%9A%BD+%7C+coding+%F0%9F%92%BB;_%3E+open+to+opportunities+%2F%2F+BD)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,28 +20,29 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="coding"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="coding aura"/>
 
 ```js
 /**
- * RIDOAN-75
- * Full Stack Developer · UI/UX Designer · Digital Marketer
+ * RIDOAN · 75
+ * Full Stack Developer · UI/UX · Digital Marketer
  * Chittagong, Bangladesh
  */
 
 export const dev = {
-  code   : ["TypeScript", "JavaScript", "HTML", "CSS"],
-  
+  name   : "Md Ridoan",
+  handle : "Ridoan-75",
+  locate : "Chittagong, Bangladesh",
+
   build  : {
-    client : ["React", "Next.js", "Tailwind CSS", "Bootstrap", "SASS"],
-    server : ["Node.js", "Express.js", "MongoDB", "REST API"],
+    client : ["React", "Next.js", "TypeScript",
+              "Tailwind CSS", "Bootstrap", "SASS"],
+    server : ["Node.js", "Express.js", "MongoDB"],
     design : ["Figma", "Adobe Creative Suite"],
   },
 
   sports : ["Cricket 🏏", "Football ⚽"],
-
-  ship   : "Production-grade. Clean code. Always.",
-  status : "Open to opportunities",
+  status : "Always building. Always learning.",
 };
 ```
 
@@ -93,67 +91,11 @@ export const dev = {
 
 <br/>
 
-## NUMBERS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888&ring_color=ffffff" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.vercel.app/?user=Ridoan-75&hide_border=true&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=555555&dates=444444&currStreakNum=ffffff&sideNums=888888"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## ACTIVITY
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=111111&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## TROPHIES
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=onestar&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 2026
-
-<div align="center">
-
-| OBJECTIVE | STATUS | PROGRESS |
-|:---|:---:|:---:|
-| Full Stack Development mastery | `IN PROGRESS` | `████████░░` |
-| UI / UX Design — advanced level | `IN PROGRESS` | `█████████░` |
-| React Native — mobile development | `QUEUED` | `░░░░░░░░░░` |
-| 5+ major projects shipped | `IN PROGRESS` | `█████░░░░░` |
-| Open Source contributions | `QUEUED` | `░░░░░░░░░░` |
 
 </div>
 
@@ -187,22 +129,14 @@ export const dev = {
 
 </div>
 
-<br/>
-
 <div align="center">
-
-![Views](https://komarev.com/ghpvc/?username=Ridoan-75&color=ffffff&style=flat-square&label=PROFILE+VIEWS)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=120&section=footer&text=ALWAYS%20BUILDING&fontSize=18&fontColor=333333&fontAlignY=70&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=100&section=footer&text=ALWAYS%20BUILDING&fontSize=16&fontColor=333333&fontAlignY=70" width="100%"/>
 </div>
 
 <!--
-SNAKE ANIMATION — ONE TIME SETUP
-================================
-Create file: .github/workflows/snake.yml
+SNAKE ANIMATION SETUP
+=====================
+Create: .github/workflows/snake.yml
 
 name: Generate Snake
 on:
