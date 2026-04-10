@@ -1,94 +1,100 @@
 <div align="center">
 
-<!-- AUTO-LOOPING CODING GIF — plays automatically nonstop -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="coding animation"/>
+<!-- ═══════════════════════════════════════════════════════════
+     HERO — full-width coding GIF, auto-plays nonstop (GIF loops forever)
+     Source: Animated code screen from github.com/Anmol-Baranwal
+     ═══════════════════════════════════════════════════════════ -->
+<img
+  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+  width="100%"
+  alt="coding"
+/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=99999&color=64FFDA&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Md+Ridoan)](https://git.io/typing-svg)
+<!-- NAME — large, bold, typed once -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=99999&color=64FFDA&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Md+Ridoan)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=800&height=28&lines=Full+Stack+Developer+%2F+UI-UX+Designer+%2F+Digital+Marketer+—+Chittagong%2C+Bangladesh)](https://git.io/typing-svg)
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=_%3E+Building+production-grade+web+apps...;_%3E+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;_%3E+Based+in+Chittagong%2C+Bangladesh+🇧🇩;_%3E+Open+to+work+%2F%2F+Let%27s+connect)](https://git.io/typing-svg)
+<!-- ROLE TAG LINE — typed once, stays -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=900&height=30&lines=Full+Stack+Developer+%2F+UI-UX+Designer+%2F+Digital+Marketer+%E2%80%94+Chittagong%2C+Bangladesh)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](https://linkedin.com/in/mohammad-ridoan-hossen75)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=64FFDA)](https://twitter.com/Ridoan_075)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=64FFDA)](https://fb.com/md.ridoan.77964)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=64FFDA)](https://instagram.com/ridu-075)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=64FFDA)](mailto:ridoan437@gmail.com)
+<!-- ANIMATED STATUS — loops forever -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=750&lines=_%3E+Open+to+Work+%2F%2F+Available+for+Hire+%F0%9F%9F%A2;_%3E+Building+production-grade+web+apps...;_%3E+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;_%3E+Crafting+pixel-perfect+UI+%2F+UX+%F0%9F%8E%A8;_%3E+Chittagong%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `$ whoami`
+<div align="center">
 
-```typescript
-const ridoan = {
-  name     : "Md Ridoan",
-  handle   : "Ridoan-75",
-  location : "Chittagong, Bangladesh 🇧🇩",
+<!-- ═══════════════════════════════════════════════
+     ABOUT — clean horizontal card layout
+     ═══════════════════════════════════════════════ -->
 
-  stack: {
-    frontend : ["React", "Next.js", "TypeScript", "Tailwind CSS", "Bootstrap", "SASS"],
-    backend  : ["Node.js", "Express.js", "MongoDB"],
-    design   : ["Figma", "Adobe Creative Suite"],
-  },
-
-  currentFocus : "Building scalable, user-centric web products",
-  interests    : ["Cricket 🏏", "Football ⚽", "Open Source"],
-  available    : true, // open to work
-};
 ```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   👨‍💻  Md Ridoan · Ridoan-75       📍 Chittagong, Bangladesh             │
+│                                                                         │
+│   🚀  Building scalable, user-centric web products                      │
+│   🎨  Turning ideas into beautiful, functional interfaces               │
+│   📚  Always learning · Always building · Always shipping               │
+│                                                                         │
+│   🏏  Cricket  ⚽  Football  💻  Open Source                            │
+│                                                                         │
+│   ✅  STATUS : OPEN TO WORK — Let's build something great!              │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-## `$ ls skills/`
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=64FFDA)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=64FFDA)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=64FFDA)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=64FFDA)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=64FFDA)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=64FFDA)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=64FFDA)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=64FFDA)
-![SASS](https://img.shields.io/badge/SASS-0d1117?style=flat-square&logo=sass&logoColor=64FFDA)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=64FFDA)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=64FFDA)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=64FFDA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=64FFDA)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=64FFDA)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=64FFDA)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=64FFDA)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=64FFDA)
+![SASS](https://img.shields.io/badge/SASS-0d1117?style=for-the-badge&logo=sass&logoColor=64FFDA)
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=64FFDA)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=64FFDA)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=64FFDA)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=64FFDA)
+![Express](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=64FFDA)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=64FFDA)
 
 **Design & Tools**
 
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=64FFDA)
-![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobephotoshop&logoColor=64FFDA)
-![Illustrator](https://img.shields.io/badge/Illustrator-0d1117?style=flat-square&logo=adobeillustrator&logoColor=64FFDA)
-![After Effects](https://img.shields.io/badge/After_Effects-0d1117?style=flat-square&logo=adobeaftereffects&logoColor=64FFDA)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=64FFDA)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=64FFDA)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=64FFDA)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=64FFDA)
+![Illustrator](https://img.shields.io/badge/Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=64FFDA)
+![After Effects](https://img.shields.io/badge/After_Effects-0d1117?style=for-the-badge&logo=adobeaftereffects&logoColor=64FFDA)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=64FFDA)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=64FFDA)
 
 </div>
 
 ---
 
-## `$ git log --stat`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9&border_color=30363d&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&theme=github_dark&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9&border_color=30363d&rank_icon=github&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&theme=github_dark&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9&border_color=30363d&langs_count=8" />
 
 <br/><br/>
 
@@ -98,7 +104,7 @@ const ridoan = {
 
 ---
 
-## `$ watch -n 12h git push`
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -108,7 +114,7 @@ const ridoan = {
 
 ---
 
-## `$ tail -f contributions.log`
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -146,12 +152,20 @@ jobs:
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════
+     FOOTER — waving banner + social links
+     ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=120&section=footer&text=Always+Building.+Always+Learning.&fontSize=14&fontColor=64FFDA&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2040,100:0d1117&height=140&section=footer&text=Let%27s+Build+Something+Great&fontSize=20&fontColor=64FFDA&fontAlignY=60&animation=twinkling" width="100%"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ridoan-75&color=64FFDA&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](https://linkedin.com/in/mohammad-ridoan-hossen75)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=64FFDA)](https://fb.com/md.ridoan.77964)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=64FFDA)](https://twitter.com/Ridoan_075)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=64FFDA)](https://instagram.com/ridu-075)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=64FFDA)](mailto:ridoan437@gmail.com)
 
 </div>
