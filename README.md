@@ -1,178 +1,224 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║              MD RIDOAN — GitHub Profile README               ║
+  ║         Sports · Gaming · Full Stack Development             ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:ff6b35,100:ffd700&height=280&section=header&text=MD%20RIDOAN&fontSize=75&fontAlignY=38&fontColor=ffffff&desc=⚡%20Full%20Stack%20Developer%20·%20UI/UX%20Designer%20·%20Digital%20Marketer%20⚡&descAlignY=56&descAlign=50&animation=fadeIn" width="100%"/>
-
-<!-- CHAKRA DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=650&lines=🍥+Dattebayo!+Welcome+to+my+Profile!;⚡+Full+Stack+Web+Developer;🎨+UI%2FUX+Designer+%7C+Figma+Ninja;📢+Digital+Marketing+Specialist;🚀+Always+Learning%2C+Never+Stopping!;💻+console.log(%22Hello+World!%22);🔥+Believer+in+Clean+Code)](https://git.io/typing-svg)
-
-<br>
-
-<!-- BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=Ridoan-75&color=ff6b35&style=for-the-badge&label=CHAKRA+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Ridoan-75?label=FOLLOWERS&style=for-the-badge&color=ffd700&labelColor=0a0a0f)](https://github.com/Ridoan-75)
-[![GitHub stars](https://img.shields.io/github/stars/Ridoan-75?label=STARS&style=for-the-badge&color=ff4fff&labelColor=0a0a0f)](https://github.com/Ridoan-75)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,80:00e676,100:0d1117&height=220&section=header&text=MD%20RIDOAN&fontSize=72&fontColor=ffffff&fontAlignY=42&fontWeight=900&desc=Full%20Stack%20Developer%20%E2%80%A2%20Sports%20Fanatic%20%E2%80%A2%20Gamer&descAlignY=62&descAlign=50&descSize=14" width="100%"/>
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding anime gif"/>
+<div align="center">
 
-## ⚡ About the Ninja
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2800&pause=900&color=00E676&center=true&vCenter=true&width=680&lines=%3E+Full+Stack+Web+Developer+%2F%2F+React+%7C+Node+%7C+MongoDB;%3E+UI%2FUX+Designer+%2F%2F+Figma+%7C+Adobe+Creative+Suite;%3E+Digital+Marketing+Specialist+%2F%2F+SEO+%7C+Strategy;%3E+Cricket+Fan+%2F%2F+Bangladesh+Tigers+always;%3E+Football+Fanatic+%2F%2F+EPL+%26+UCL+watcher;%3E+CS2+Entry+Fragger+%2F%2F+AK-47+main;%3E+GTA+V+%2F+GTA+IV+%2F+RDR2+%2F%2F+Rockstar+loyalist;%3E+Spiderman+%2F+Forza+H5+%2F+FIFA+%2F%2F+certified;%3E+Street+Fighter+6+%2F+MotoGP+%2F+Cricket+24;%3E+console.log(%22never+stop+building%22)+%2F%2F+BD)](https://git.io/typing-svg)
 
-```javascript
+</div>
+
+<br>
+
+---
+
+## `> whoami`
+
+```typescript
 const ridoan = {
   name        : "Md Ridoan",
-  alias       : "Ridoan-75 🍥",
-  origin      : "Bangladesh 🇧🇩",
-  rank        : "Full Stack Developer",
-  chakraType  : ["React", "Node.js", "UI/UX", "MongoDB"],
-  
-  jutsu: {
-    frontEnd  : ["React ⚛️", "Next.js", "TypeScript", "Tailwind CSS"],
-    backEnd   : ["Node.js 🟢", "Express.js", "MongoDB", "REST API"],
-    design    : ["Figma 🎨", "Adobe Creative Suite", "UI/UX"],
-    tools     : ["Git 🔧", "VS Code", "Digital Marketing 📢"]
+  handle      : "Ridoan-75",
+  location    : "Chittagong, Bangladesh",
+  role        : "Full Stack Developer / UI-UX Designer / Digital Marketer",
+
+  stack: {
+    frontend  : ["React", "Next.js", "TypeScript", "JavaScript", "HTML5", "CSS3"],
+    styling   : ["Tailwind CSS", "Bootstrap", "SASS", "Ant Design"],
+    backend   : ["Node.js", "Express.js", "MongoDB"],
+    tools     : ["Git", "VS Code", "Figma", "Adobe Creative Suite"],
   },
 
-  currentMission : "Building amazing web experiences 🚀",
-  goal2026       : ["Master Full Stack 🌐", "React Native 📱",
-                    "Open Source 🤝", "5+ Major Projects 💪"],
+  sports: {
+    cricket   : { team: "Bangladesh Tigers", format: ["Test", "T20", "ODI"] },
+    football  : { watch: ["EPL", "UCL", "FIFA WC"] },
+  },
 
-  funFact : "I debug with console.log() and I'm proud of it! 😄",
-  motto   : "Dattebayo — I never go back on my code! 🔥"
+  games: [
+    "GTA V", "GTA IV", "Spider-Man", "Forza Horizon 5",
+    "FIFA", "Cricket 24", "CS2", "RDR2",
+    "Street Fighter 6", "MotoGP"
+  ],
+
+  currentMission : "Building production-grade web applications",
+  goals2026      : ["Full Stack mastery", "React Native", "Open Source", "5+ major projects"],
+  funFact        : 'console.log("I debug with pride and I never rage-quit")',
 };
 ```
 
-<br clear="right"/>
-
 ---
+
+## `> tech.loadout()`
 
 <div align="center">
 
-## 🔥 Jutsu Arsenal — Tech Stack
+**Frontend**
 
-<!-- FRONTEND -->
-### ⚡ Frontend Jutsu
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
-<!-- STYLING -->
-### 🎨 Styling & Design Genjutsu
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-FF69B4?style=for-the-badge&logo=SASS&logoColor=white)
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Styling**
 
-<!-- BACKEND -->
-### ⚙️ Backend Ninjutsu
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![SASS](https://img.shields.io/badge/SASS-0d1117?style=flat-square&logo=sass&logoColor=CF649A)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0d1117?style=flat-square&logo=antdesign&logoColor=0170FE)
 
-<!-- TOOLS -->
-### 🛠️ Shinobi Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe_Creative_Suite-FF0000?style=for-the-badge&logo=Adobe&logoColor=white)
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=43853D)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F1502F)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=0078D4)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![Adobe](https://img.shields.io/badge/Adobe_Suite-0d1117?style=flat-square&logo=adobe&logoColor=FF0000)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Chakra Analytics
+## `> passion.exe`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFD700&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFD700"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-</div>
+**`[ CRICKET ]`**
 
-<div align="center">
+```
+TEAM     Bangladesh Tigers · ICC
+FORMAT   Test · T20 · ODI
+RATING   ██████████ 10/10
+```
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Ridoan-75&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FFD700&currStreakLabel=FF6B35&sideLabels=FF4FFF)
+</td>
+<td align="center" width="50%">
 
-</div>
+**`[ FOOTBALL ]`**
 
----
+```
+WATCH    EPL · UCL · FIFA World Cup
+STYLE    Counter-attack enjoyer
+RATING   █████████░ 9/10
+```
 
-## 🏆 Mission Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=onedark&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Chakra Activity Graph
-
-<div align="center">
-
-[![Ridoan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B35&line=FFD700&point=FF4FFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎯 Mission Board — 2026 Goals
+## `> game.library()`
 
 <div align="center">
 
-| 🎯 Mission | 📊 Status | 🔥 Priority |
-|:---:|:---:|:---:|
-| 🌐 Master Full Stack Development | `IN PROGRESS` | ██████████ |
-| 🎨 Level Up UI/UX Design Skills | `ACTIVE` | █████████░ |
-| 📱 Learn React Native | `LOADING...` | ████████░░ |
-| 🤝 Contribute to Open Source | `INITIALIZING` | ███████░░░ |
-| 💪 Build 5+ Major Projects | `ON MISSION` | ██████░░░░ |
+| # | TITLE | STUDIO | GENRE | STATUS |
+|:---:|:---|:---|:---|:---:|
+| 01 | **GTA V** | Rockstar Games | Open World | `ACTIVE` |
+| 02 | **GTA IV** | Rockstar Games | Open World | `COMPLETED` |
+| 03 | **Red Dead Redemption 2** | Rockstar Games | Western RPG | `COMPLETED` |
+| 04 | **Spider-Man** | Insomniac Games | Action Adventure | `COMPLETED` |
+| 05 | **Forza Horizon 5** | Playground Games | Racing | `ACTIVE` |
+| 06 | **CS2** | Valve | Tactical FPS | `ACTIVE` |
+| 07 | **FIFA** | EA Sports | Football Sim | `ACTIVE` |
+| 08 | **Cricket 24** | Big Ant Studios | Cricket Sim | `ACTIVE` |
+| 09 | **Street Fighter 6** | Capcom | Fighting | `ACTIVE` |
+| 10 | **MotoGP** | Milestone | Bike Racing | `ACTIVE` |
 
 </div>
 
 ---
 
-## 🌸 Ninja Code of Honor
+## `> github.stats()`
 
 <div align="center">
 
-> *"A shinobi never abandons his code. I'll keep building until I become the Hokage of Full Stack Development!"*
->
-> **— Md Ridoan, Developer of the Hidden Leaf 🍃**
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676&text_color=8b949e"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=8b949e"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Ridoan-75&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e2d3a&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
 ---
 
-## 🤝 Summon Me — Connect
+## `> contributions.graph()`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-ridoan-hossen75)
-[![Twitter](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Ridoan_075)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/md.ridoan.77964)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ridu-075)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridoan437@gmail.com)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=github-compact&hide_border=true&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&area_color=00e676)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
+</div>
 
-<!-- SNAKE ANIMATION — Add this to your GitHub Actions workflow -->
-<!-- See setup instructions below -->
-<img src="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+---
+
+## `> trophies.display()`
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `> objectives_2026.status()`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    SEASON 2026  —  ROADMAP                   ║
+╠══════════════════════════════════════════════════════════════╣
+║  [●] Master Full Stack Development     68%  ████████░░░░    ║
+║  [●] Advance UI/UX Design Skills       75%  █████████░░░    ║
+║  [○] Learn React Native for Mobile      0%  ░░░░░░░░░░░░    ║
+║  [◐] Build 5+ Major Projects           40%  █████░░░░░░░    ║
+║  [○] Open Source Contributions          0%  ░░░░░░░░░░░░    ║
+╠══════════════════════════════════════════════════════════════╣
+║    [●] In Progress     [◐] Started     [○] Queued            ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## `> contact.connect()`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/mohammad-ridoan-hossen75)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/Ridoan_075)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://fb.com/md.ridoan.77964)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ridu-075)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ridoan437@gmail.com)
 
 </div>
 
@@ -180,42 +226,53 @@ const ridoan = {
 
 <div align="center">
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:ff6b35,100:0a0a0f&height=120&section=footer&text=⚡%20BELIEVE%20IT!%20⚡&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
 
-![Made with](https://img.shields.io/badge/Made_with-❤️_from_Bangladesh_🇧🇩-FF6B35?style=for-the-badge)
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ridoan-75&color=00e676&style=flat-square&label=profile+views)
+
+```
+> console.log("I debug with pride — and I never rage-quit")
+> location  : Chittagong, Bangladesh
+> status    : always building · always learning
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0d1117,100:00e676&height=100&section=footer" width="100%"/>
 
 </div>
 
 <!--
-==========================================================
-🐍 SNAKE ANIMATION SETUP — GitHub Actions এ add করো:
-==========================================================
+═══════════════════════════════════════════════════════════════
+  SNAKE ANIMATION SETUP
 
-1. তোমার repo তে .github/workflows/ ফোল্ডার বানাও
-2. snake.yml নামে একটা file বানাও এই content দিয়ে:
+  1. Create .github/workflows/snake.yml in your profile repo
+  2. Paste this content:
 
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Ridoan-75
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-==========================================================
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Ridoan-75
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+═══════════════════════════════════════════════════════════════
 -->
