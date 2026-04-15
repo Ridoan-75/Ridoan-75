@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:001a0e,100:0d1117&height=200&section=header&text=Md%20Ridoan&fontSize=72&fontColor=64FFDA&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Digital%20Marketer&descSize=16&descAlignY=78&descAlign=50&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:001a0e,100:0d1117&height=220&section=header&text=Md%20Ridoan&fontSize=72&fontColor=64FFDA&fontAlignY=52&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Bug%20Hunter%20%F0%9F%90%9B&descSize=15&descAlignY=75&descAlign=50&fontAlign=50" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=64FFDA&center=true&vCenter=true&width=650&lines=const+ridoan+%3D+new+Developer(%22Chittagong%2C+BD%22)%3B;ridoan.skills+%3D+%5B%22React%22%2C+%22Next.js%22%2C+%22Node.js%22%2C+%22MongoDB%22%5D%3B;ridoan.status+%3D+%22Open+to+Work+%F0%9F%9F%A2%22%3B;ridoan.passion+%3D+%22Building+products+people+love%22%3B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=64FFDA&center=true&vCenter=true&width=680&lines=const+ridoan+%3D+new+Developer(%22Chittagong%2C+BD%22)%3B;ridoan.status+%3D+%22%F0%9F%9F%A2+Open+to+Work%22%3B;git+commit+-m+%22fix%3A+finally+found+the+bug+%F0%9F%90%9B%22;console.log(%22why+does+this+even+work%3F%22)%3B;npm+run+dev+%E2%86%92+%E2%9C%93+compiled+successfully;debugging%3A+true+%2F%2F+always%3B)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,13 +27,35 @@ const developer = {
   currently  : {
     building : "Production-grade web applications",
     learning : "Advanced system design & DevOps",
-    exploring: "AI-integrated web experiences",
+    fixing   : "That one bug that makes no sense 🐛",
   },
 
   philosophy : "Ship fast. Iterate faster. Build with purpose.",
   interests  : ["🏏 Cricket", "⚽ Football", "🌐 Open Source"],
   contact    : "ridoan437@gmail.com",
 };
+```
+
+---
+
+## 🐛 Bug Fixing Log
+
+> *Current debugging session — because there's always a bug somewhere*
+
+| Status | Issue | File | Time |
+|--------|-------|------|------|
+| ✅ Fixed | CORS issue in Express middleware | `auth.js` | 2h ago |
+| 🔄 In Progress | MongoDB aggregation returns null | `db/queries.ts` | 35m ago |
+| ✅ Fixed | Tailwind purging active classes in prod | `tailwind.config.js` | 5h ago |
+| 🔴 Open | Next.js hydration mismatch on dynamic routes | `pages/[id].tsx` | just now |
+
+```bash
+$ git log --oneline -5
+a3f92c1  fix: handle undefined state in useEffect cleanup
+8d21be4  feat: add JWT refresh token rotation
+5c109fa  style: responsive nav breakpoints fixed
+e7ab33d  fix: Tailwind purge config updated
+b2cc812  docs: update README — added bug log section
 ```
 
 ---
@@ -48,9 +70,9 @@ const developer = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=64FFDA)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=64FFDA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=64FFDA)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=64FFDA)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![SASS](https://img.shields.io/badge/SASS-0d1117?style=flat-square&logo=sass&logoColor=CC6699)
 
@@ -141,7 +163,7 @@ const developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:001a12,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting%20👋&fontSize=16&fontColor=64FFDA&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:001a12,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting%20%F0%9F%91%8B&fontSize=16&fontColor=64FFDA&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
 
