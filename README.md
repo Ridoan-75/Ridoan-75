@@ -12,12 +12,12 @@
 
 ## ⚡ About Me
 
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=Ridoan-75&theme=github_dark&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9&border_color=21262d" width="100%"/>
+    <td width="45%" align="center" valign="middle" style="border: none;">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="100%" style="border-radius: 10px;"/>
     </td>
-    <td width="50%" style="border: none;">
+    <td width="55%" valign="middle" style="border: none; padding-left: 20px;">
       
       ```typescript
       const developer = {
@@ -25,6 +25,7 @@
         role     : "Full Stack Developer",
         focus    : ["Scalability", "User Experience"],
         tech     : "MERN Stack / Next.js",
+        status   : "🟢 Open to Work",
         goal     : "Crafting digital perfection 🚀"
       };
       ```
@@ -65,14 +66,6 @@
   <br/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&bg_color=0d1117&color=64FFDA&line=64FFDA&point=ffffff&area_color=002200&area=true&hide_border=true&radius=6" width="100%" />
-</div>
-
----
-
-## 🐍 The Contribution Snake
-
-<div align="center">
-  <img alt="Snake" src="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
