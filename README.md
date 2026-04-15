@@ -10,26 +10,27 @@
 
 ---
 
+---
+
 ## ⚡ About Me
 
-<table align="center" border="0">
+<div align="center">
+<table border="0" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td width="45%" align="center" valign="middle" style="border: none;">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="100%" style="border-radius: 10px;"/>
+    <td width="50%" align="center" valign="middle" style="border: none; padding: 0;">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" style="width: 100%; height: auto; display: block; border-radius: 10px;"/>
     </td>
-    <td width="55%" valign="middle" style="border: none; padding-left: 20px;">
-      
-      const developer = {
-        name     : "Md Ridoan",
-        role     : "Full Stack Developer",
-        focus    : ["Scalability", "User Experience"],
-        tech     : "MERN Stack / Next.js",
-        status   : "🟢 Open to Work",
-        goal     : "Crafting digital perfection 🚀"
-      };
-    </td>
-  </tr>
-</table>
+    <td width="50%" valign="stretch" style="border: none; padding: 0 0 0 10px;">
+
+```typescript
+const developer = {
+  name   : "Md Ridoan",
+  role   : "Full Stack Developer",
+  focus  : ["Scalability", "UX"],
+  tech   : "Full Stack / Next.js",
+  status : "🟢 Open to Work",
+  goal   : "Crafting perfection 🚀"
+};
 
 ---
 
