@@ -18,6 +18,7 @@
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="55%" valign="middle" style="border: none; padding-left: 20px;">
+      
       const developer = {
         name     : "Md Ridoan",
         role     : "Full Stack Developer",
@@ -26,6 +27,7 @@
         status   : "🟢 Open to Work",
         goal     : "Crafting digital perfection 🚀"
       };
+    </td>
   </tr>
 </table>
 
