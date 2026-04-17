@@ -1,14 +1,14 @@
-<div align="center">
+<div align="center"> 
 
-# 👋 Hi, I'm Md Ridoan
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+
+👋 Hi, I'm Md Ridoan
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+%7C+Next.js;Building+scalable+systems+from+Chittagong+🇧🇩;UI%2FUX+Designer+%7C+Bug+Hunter+%7C+Open+to+Work" alt="Typing SVG" />
 
 </div>
 
----
-
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
 ```yaml
 Name       : Md Ridoan
@@ -18,61 +18,24 @@ Stack      : MERN · Next.js · TypeScript
 Focus      : Clean Architecture · Scalable UI/UX
 Email      : ridoan437@gmail.com
 Status     : Open to Work 🟢
+` ` `
+
+🛠️ Tech Stack
+...
+
+📊 GitHub Stats
+...
+
+🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+📬 Connect With Me
+...
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&hide_border=true&theme=github_dark"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&hide_border=true&theme=github_dark"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridoan-75&hide_border=true&theme=github-dark-blue" width="60%"/>
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-ridoan437%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ridoan437@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-ridoan-hossen75)
-[![GitHub](https://img.shields.io/badge/GitHub-Ridoan--75-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ridoan-75)
-[![Twitter](https://img.shields.io/badge/Twitter-@Ridoan__075-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ridoan_075)
-
-</div>
+**Snake GIF activate করতে** আপনার GitHub-এ একটা Action লাগবে। আপনি কি চান আমি সেই **workflow file-ও** দিয়ে দিই?
