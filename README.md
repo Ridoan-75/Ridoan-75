@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- ⚽ RONALDO FREE KICK -->
-<a href="https://www.youtube.com/watch?v=9P3tYGwFup0" target="_blank">
-  <img src="https://media.giphy.com/media/3ohzdWQYMDp2gLpHAs/giphy.gif" width="100%" alt="Ronaldo Free Kick ⚽"/>
-</a>
-
-<br/>
-
 # 👋 Hi, I'm Md Ridoan
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+%7C+Next.js;Building+scalable+systems+from+Chittagong+🇧🇩;UI%2FUX+Designer+%7C+Bug+Hunter+%7C+Open+to+Work" alt="Typing SVG" />
@@ -62,12 +55,12 @@ Status     : Open to Work 🟢
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ridoan01&show_icons=true&hide_border=true&theme=github_dark"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoan01&layout=compact&langs_count=8&hide_border=true&theme=github_dark"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&hide_border=true&theme=github_dark"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&hide_border=true&theme=github_dark"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ridoan01&hide_border=true&theme=github-dark-blue" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridoan-75&hide_border=true&theme=github-dark-blue" width="60%"/>
 
 </div>
 
@@ -78,8 +71,8 @@ Status     : Open to Work 🟢
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-ridoan437%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ridoan437@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridoan)
-[![GitHub](https://img.shields.io/badge/GitHub-ridoan01-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ridoan01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ridoan.dev-0366D6?style=flat-square&logo=vercel&logoColor=white)](https://ridoan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-ridoan-hossen75)
+[![GitHub](https://img.shields.io/badge/GitHub-Ridoan--75-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ridoan-75)
+[![Twitter](https://img.shields.io/badge/Twitter-@Ridoan__075-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ridoan_075)
 
 </div>
