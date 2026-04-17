@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ⚽ RONALDO FREE KICK — AUTO-PLAY VIDEO -->
-<a href="https://www.youtube.com/watch?v=9P3tYGwFup0" target="_blank">
+<a href="[https://www.youtube.com/watch?v=9P3tYGwFup0](https://youtu.be/KRqgjpiwrY8?si=A6vvYDahz3UkNSzP)" target="_blank">
   <img src="https://img.youtube.com/vi/9P3tYGwFup0/maxresdefault.jpg" width="100%" style="border-radius:12px;" alt="Ronaldo Free Kick ⚽"/>
 </a>
 
