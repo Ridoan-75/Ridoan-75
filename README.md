@@ -52,14 +52,6 @@ Status     : Open to Work 🟢
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
 ## 📬 Connect With Me
 
 <div align="center">
