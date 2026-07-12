@@ -6,32 +6,10 @@
 </div>
 
 ## 🧑‍💻 About Me
- 
-```typescript
-const ridoan: FullStackDeveloper = {
-  name: "Md Ridoan",
-  location: "Chittagong, Bangladesh 🇧🇩",
-  education: "CS @ Chattogram Polytechnic Institute",
-  role: "Full Stack Developer",
-  freelance: "Founder @ DecodeMinds 🧠",
- 
-  stack: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS", "ShadCN", "Zustand"],
-    backend: ["Node.js", "Express", "PostgreSQL", "Prisma", "Better Auth"],
-    realtime: ["Socket.IO", "Pusher"],
-  },
- 
-  currentlyLearning: ["Docker 🐳", "System Design 📐", "TanStack Query ⚡"],
-  focus: "Clean Architecture · Scalable Full Stack Apps",
- 
-  writesAt: "ridoan.pro.bd ✍️",
-  funFact: "I debug faster at 2 AM than at 2 PM 🌙",
-  motto: "Ship it clean, or don't ship it at all.",
- 
-  email: "ridoan437@gmail.com",
-  openToWork: true, // 🟢 Junior/Mid-level Frontend or Full Stack roles
-};
-```
+
+<div align="center">
+<img src="./assets/about-me.svg" width="100%" alt="About Me"/>
+</div>
 
 ---
 
