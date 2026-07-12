@@ -27,7 +27,7 @@
     <text x="58" y="246"><tspan class="p">stack</tspan><tspan class="b">: [</tspan><tspan class="s">"Next.js"</tspan><tspan class="b">, </tspan><tspan class="s">"TypeScript"</tspan><tspan class="b">, </tspan><tspan class="s">"Node.js"</tspan><tspan class="b">, </tspan><tspan class="s">"PostgreSQL"</tspan><tspan class="b">, </tspan><tspan class="s">"Prisma"</tspan><tspan class="b">],</tspan></text>
     <text x="58" y="278"><tspan class="p">learning</tspan><tspan class="b">: [</tspan><tspan class="s">"Docker 🐳"</tspan><tspan class="b">, </tspan><tspan class="s">"System Design"</tspan><tspan class="b">, </tspan><tspan class="s">"TanStack Query"</tspan><tspan class="b">],</tspan></text>
     <text x="58" y="310"><tspan class="p">email</tspan><tspan class="b">: </tspan><tspan class="s">"ridoan437@gmail.com"</tspan><tspan class="b">,</tspan></text>
-    <text x="58" y="342"><tspan class="p">openToWork</tspan><tspan class="b">: </tspan><tspan class="k">true</tspan><tspan class="b">, </tspan><tspan class="c">// 🟢</tspan></text>
+    <text x="58" y="342"><tspan class="p">openToWork</tspan><tspan class="b">: </tspan><tspan class="k">true</tspan><tspan class="b">,</tspan></text>
     <text x="32" y="374"><tspan class="b">};</tspan></text>
   </g>
 </svg>
