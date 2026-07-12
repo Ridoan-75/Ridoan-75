@@ -5,20 +5,32 @@
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
-
-```yaml
-Name       : Md Ridoan
-Location   : Chittagong, Bangladesh 🇧🇩
-Role       : Full Stack Developer
-Stack      : Next.js · TypeScript · Node.js · PostgreSQL
-Focus      : Clean Architecture · Scalable Full Stack Apps
-Learning   : Docker 🐳 · System Design · TanStack Query
-Portfolio  : ridoan.pro.bd
-Email      : ridoan437@gmail.com
-Status     : Open to Work 🟢
+ 
+```typescript
+const ridoan: FullStackDeveloper = {
+  name: "Md Ridoan",
+  location: "Chittagong, Bangladesh 🇧🇩",
+  education: "CS @ Chattogram Polytechnic Institute",
+  role: "Full Stack Developer",
+  freelance: "Founder @ DecodeMinds 🧠",
+ 
+  stack: {
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS", "ShadCN", "Zustand"],
+    backend: ["Node.js", "Express", "PostgreSQL", "Prisma", "Better Auth"],
+    realtime: ["Socket.IO", "Pusher"],
+  },
+ 
+  currentlyLearning: ["Docker 🐳", "System Design 📐", "TanStack Query ⚡"],
+  focus: "Clean Architecture · Scalable Full Stack Apps",
+ 
+  writesAt: "ridoan.pro.bd ✍️",
+  funFact: "I debug faster at 2 AM than at 2 PM 🌙",
+  motto: "Ship it clean, or don't ship it at all.",
+ 
+  email: "ridoan437@gmail.com",
+  openToWork: true, // 🟢 Junior/Mid-level Frontend or Full Stack roles
+};
 ```
 
 ---
@@ -83,7 +95,6 @@ graph LR
 <a href="mailto:ridoan437@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://ridoan.pro.bd"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://github.com/Ridoan-75"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <div align="center">
