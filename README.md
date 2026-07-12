@@ -17,13 +17,13 @@
 
 ```mermaid
 graph LR
-    A[👤 Client] -->|HTTPS| B[⚡ Next.js App Router]
-    B -->|Server Actions / API| C[🧩 Modular Backend]
-    C -->|Prisma ORM| D[(🐘 PostgreSQL)]
-    C -->|Cache| E[(🔴 Redis)]
-    C -->|Auth| F[🔐 Better Auth / Firebase]
-    C -->|Real-time| G[📡 Socket.IO / Pusher]
-    B -->|State| H[🐻 Zustand]
+    A[👤 Client] -->|HTTPS| B[Next.js App Router]
+    B -->|Server Actions / API| C[Modular Backend]
+    C -->|Prisma ORM| D[(PostgreSQL)]
+    C -->|Cache| E[(Redis)]
+    C -->|Auth| F[Better Auth / Firebase]
+    C -->|Real-time| G[Socket.IO / Pusher]
+    B -->|State| H[Zustand]
 
     style B fill:#1a1b27,stroke:#58a6ff,color:#58a6ff
     style C fill:#1a1b27,stroke:#58a6ff,color:#58a6ff

@@ -1,48 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 790" font-family="'Fira Code','Cascadia Code','Consolas','Segoe UI Emoji',monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 430" font-family="'Fira Code','Cascadia Code','Consolas','Segoe UI Emoji',monospace">
   <style>
-    text { font-size: 17px; }
+    text { font-size: 16px; }
     .k { fill: #ff7b72; }
     .v { fill: #c9d1d9; }
-    .t { fill: #ffa657; }
     .p { fill: #79c0ff; }
     .s { fill: #a5d6ff; }
     .c { fill: #8b949e; font-style: italic; }
     .b { fill: #c9d1d9; }
   </style>
 
-  <rect x="1" y="1" width="958" height="788" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
-  <rect x="1" y="1" width="958" height="48" rx="14" fill="#161b22"/>
-  <rect x="1" y="35" width="958" height="14" fill="#161b22"/>
-  <line x1="1" y1="49" x2="959" y2="49" stroke="#30363d" stroke-width="1"/>
+  <rect x="1" y="1" width="838" height="428" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="838" height="44" rx="12" fill="#161b22"/>
+  <rect x="1" y="33" width="838" height="12" fill="#161b22"/>
+  <line x1="1" y1="45" x2="839" y2="45" stroke="#30363d" stroke-width="1"/>
 
-  <circle cx="30" cy="25" r="7" fill="#ff5f57"/>
-  <circle cx="54" cy="25" r="7" fill="#febc2e"/>
-  <circle cx="78" cy="25" r="7" fill="#28c840"/>
-  <text x="480" y="31" text-anchor="middle" fill="#8b949e" font-size="14">about-me.ts — ridoan@chittagong</text>
+  <circle cx="28" cy="23" r="6" fill="#ff5f57"/>
+  <circle cx="50" cy="23" r="6" fill="#febc2e"/>
+  <circle cx="72" cy="23" r="6" fill="#28c840"/>
+  <text x="420" y="28" text-anchor="middle" fill="#8b949e" font-size="13">about-me.ts</text>
 
   <g>
-    <text x="36" y="92"><tspan class="k">const</tspan><tspan class="v"> ridoan</tspan><tspan class="b">: </tspan><tspan class="t">FullStackDeveloper</tspan><tspan class="b"> = {</tspan></text>
-    <text x="64" y="122"><tspan class="p">name</tspan><tspan class="b">: </tspan><tspan class="s">"Md Ridoan"</tspan><tspan class="b">,</tspan></text>
-    <text x="64" y="152"><tspan class="p">location</tspan><tspan class="b">: </tspan><tspan class="s">"Chittagong, Bangladesh 🇧🇩"</tspan><tspan class="b">,</tspan></text>
-    <text x="64" y="182"><tspan class="p">education</tspan><tspan class="b">: </tspan><tspan class="s">"CS @ Chattogram Polytechnic Institute"</tspan><tspan class="b">,</tspan></text>
-    <text x="64" y="212"><tspan class="p">role</tspan><tspan class="b">: </tspan><tspan class="s">"Full Stack Developer"</tspan><tspan class="b">,</tspan></text>
-    <text x="64" y="242"><tspan class="p">freelance</tspan><tspan class="b">: </tspan><tspan class="s">"Founder @ DecodeMinds 🧠"</tspan><tspan class="b">,</tspan></text>
-
-    <text x="64" y="298"><tspan class="p">stack</tspan><tspan class="b">: {</tspan></text>
-    <text x="92" y="328"><tspan class="p">frontend</tspan><tspan class="b">: [</tspan><tspan class="s">"Next.js"</tspan><tspan class="b">, </tspan><tspan class="s">"React"</tspan><tspan class="b">, </tspan><tspan class="s">"TypeScript"</tspan><tspan class="b">, </tspan><tspan class="s">"Tailwind"</tspan><tspan class="b">, </tspan><tspan class="s">"ShadCN"</tspan><tspan class="b">, </tspan><tspan class="s">"Zustand"</tspan><tspan class="b">],</tspan></text>
-    <text x="92" y="358"><tspan class="p">backend</tspan><tspan class="b">: [</tspan><tspan class="s">"Node.js"</tspan><tspan class="b">, </tspan><tspan class="s">"Express"</tspan><tspan class="b">, </tspan><tspan class="s">"PostgreSQL"</tspan><tspan class="b">, </tspan><tspan class="s">"Prisma"</tspan><tspan class="b">, </tspan><tspan class="s">"Better Auth"</tspan><tspan class="b">],</tspan></text>
-    <text x="92" y="388"><tspan class="p">realtime</tspan><tspan class="b">: [</tspan><tspan class="s">"Socket.IO"</tspan><tspan class="b">, </tspan><tspan class="s">"Pusher"</tspan><tspan class="b">],</tspan></text>
-    <text x="64" y="418"><tspan class="b">},</tspan></text>
-
-    <text x="64" y="474"><tspan class="p">currentlyLearning</tspan><tspan class="b">: [</tspan><tspan class="s">"Docker 🐳"</tspan><tspan class="b">, </tspan><tspan class="s">"System Design 📐"</tspan><tspan class="b">, </tspan><tspan class="s">"TanStack Query ⚡"</tspan><tspan class="b">],</tspan></text>
-    <text x="64" y="504"><tspan class="p">focus</tspan><tspan class="b">: </tspan><tspan class="s">"Clean Architecture · Scalable Full Stack Apps"</tspan><tspan class="b">,</tspan></text>
-
-    <text x="64" y="560"><tspan class="p">writesAt</tspan><tspan class="b">: </tspan><tspan class="s">"ridoan.pro.bd ✍️"</tspan><tspan class="b">,</tspan></text>
-    <text x="64" y="590"><tspan class="p">funFact</tspan><tspan class="b">: </tspan><tspan class="s">"I debug faster at 2 AM than at 2 PM 🌙"</tspan><tspan class="b">,</tspan></text>
-    <text x="64" y="620"><tspan class="p">motto</tspan><tspan class="b">: </tspan><tspan class="s">"Ship it clean, or don't ship it at all."</tspan><tspan class="b">,</tspan></text>
-
-    <text x="64" y="676"><tspan class="p">email</tspan><tspan class="b">: </tspan><tspan class="s">"ridoan437@gmail.com"</tspan><tspan class="b">,</tspan></text>
-    <text x="64" y="706"><tspan class="p">openToWork</tspan><tspan class="b">: </tspan><tspan class="k">true</tspan><tspan class="b">, </tspan><tspan class="c">// 🟢 Junior/Mid-level Frontend or Full Stack</tspan></text>
-    <text x="36" y="736"><tspan class="b">};</tspan></text>
+    <text x="32" y="86"><tspan class="k">const</tspan><tspan class="v"> ridoan </tspan><tspan class="b">= {</tspan></text>
+    <text x="58" y="118"><tspan class="p">name</tspan><tspan class="b">: </tspan><tspan class="s">"Md Ridoan Hossen"</tspan><tspan class="b">,</tspan></text>
+    <text x="58" y="150"><tspan class="p">location</tspan><tspan class="b">: </tspan><tspan class="s">"Chittagong, Bangladesh 🇧🇩"</tspan><tspan class="b">,</tspan></text>
+    <text x="58" y="182"><tspan class="p">role</tspan><tspan class="b">: </tspan><tspan class="s">"Full Stack Developer"</tspan><tspan class="b">,</tspan></text>
+    <text x="58" y="246"><tspan class="p">stack</tspan><tspan class="b">: [</tspan><tspan class="s">"Next.js"</tspan><tspan class="b">, </tspan><tspan class="s">"TypeScript"</tspan><tspan class="b">, </tspan><tspan class="s">"Node.js"</tspan><tspan class="b">, </tspan><tspan class="s">"PostgreSQL"</tspan><tspan class="b">, </tspan><tspan class="s">"Prisma"</tspan><tspan class="b">],</tspan></text>
+    <text x="58" y="278"><tspan class="p">learning</tspan><tspan class="b">: [</tspan><tspan class="s">"Docker 🐳"</tspan><tspan class="b">, </tspan><tspan class="s">"System Design"</tspan><tspan class="b">, </tspan><tspan class="s">"TanStack Query"</tspan><tspan class="b">],</tspan></text>
+    <text x="58" y="310"><tspan class="p">email</tspan><tspan class="b">: </tspan><tspan class="s">"ridoan437@gmail.com"</tspan><tspan class="b">,</tspan></text>
+    <text x="58" y="342"><tspan class="p">openToWork</tspan><tspan class="b">: </tspan><tspan class="k">true</tspan><tspan class="b">, </tspan><tspan class="c">// 🟢</tspan></text>
+    <text x="32" y="374"><tspan class="b">};</tspan></text>
   </g>
 </svg>
