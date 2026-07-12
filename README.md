@@ -77,33 +77,6 @@ graph LR
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-snake-dark.svg"/>
-<img src="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-snake-dark.svg" alt="Snake eating my contributions"/>
-</picture>
-</div>
-
----
-
-## 😄 Random Dev Joke
-
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder" alt="Dev joke — refreshes on every visit"/>
-</div>
-
----
-
 ## 📬 Connect With Me
 
 <div align="center">
