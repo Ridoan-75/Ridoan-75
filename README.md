@@ -23,22 +23,6 @@ Status     : Open to Work 🟢
 
 ---
 
-## 📜 My Journey — `git log`
-
-```bash
-$ git log --oneline --graph my-dev-journey
-
-* a7f3e21 (HEAD -> main, tag: v2026) Job hunting mode ON 🎯 · learning Docker & System Design
-* c91b4d8 Left agency role — chasing better environment & bigger challenges
-* e5d2f10 Shipped Marketify 🛍️ — multi-vendor e-commerce (Next.js + Express + Redis)
-* b3a8c47 Built MeowMeal 🍜 — AI-powered food delivery with real-time tracking
-* 9f1e6b2 First dev job at an agency — production Next.js apps
-* 4d7a9e3 Founded DecodeMinds 🧠 — freelance web development
-* 1c0f5a8 Initial commit — CS student, Chattogram Polytechnic Institute
-```
-
----
-
 ## ⚙️ How I Architect Apps
 
 ```mermaid
@@ -80,32 +64,6 @@ graph LR
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🛍️ **Marketify** | Multi-vendor e-commerce with seller/admin dashboards, AI features & real-time chat | Next.js · Express · PostgreSQL · Redis · Stripe · Socket.IO |
-| 🍜 **MeowMeal** | AI-powered food delivery platform with real-time order tracking | Next.js 15 · Node.js · PostgreSQL · Better Auth · Gemini AI |
-| 🦷 **Dentora AI** | Dental care platform with separated frontend/backend architecture | Next.js · Node.js · PostgreSQL · Better Auth |
-| 🌱 **EcoSpark Hub** | Sustainability platform | Next.js · Node.js · PostgreSQL |
-
-> 🔎 More projects on my [repositories](https://github.com/Ridoan-75?tab=repositories) & [portfolio](https://ridoan.pro.bd)
-
----
-
-## 🎯 2026 Roadmap — Live Progress
-
-```text
-Docker & Containers      ████████████░░░░░░░░  60%   🐳 mid-course, WSL setup done
-System Design            ████░░░░░░░░░░░░░░░░  20%   📐 up next
-TanStack Query           ██████░░░░░░░░░░░░░░  30%   ⚡ learning
-Redis Deep Dive          ██░░░░░░░░░░░░░░░░░░  10%   🔴 queued
-AI Automation (RAG/n8n)  ███░░░░░░░░░░░░░░░░░  15%   🤖 exploring
-Land Next.js Dev Role    ████████████████░░░░  80%   🎯 interviewing
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -115,6 +73,33 @@ Land Next.js Dev Role    ████████████████░░�
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridoan-75&hide_border=true&theme=github-dark-blue" width="60%"/>
 <br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-snake-dark.svg" alt="Snake eating my contributions"/>
+</picture>
+</div>
+
+---
+
+## 😄 Random Dev Joke
+
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder" alt="Dev joke — refreshes on every visit"/>
 </div>
 
 ---
