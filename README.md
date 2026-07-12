@@ -21,10 +21,43 @@ Email      : ridoan437@gmail.com
 Status     : Open to Work 🟢
 ```
 
-- 🔭 Building production-grade e-commerce & real-time apps with **Next.js + Prisma + PostgreSQL**
-- ✍️ I write about my dev journey on my [blog](https://ridoan.pro.bd) & [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- 🚀 Founder of **DecodeMinds** — freelance web development
-- 💬 Ask me about **React, Next.js, Node.js, Prisma, Zustand, Better Auth**
+---
+
+## 📜 My Journey — `git log`
+
+```bash
+$ git log --oneline --graph my-dev-journey
+
+* a7f3e21 (HEAD -> main, tag: v2026) Job hunting mode ON 🎯 · learning Docker & System Design
+* c91b4d8 Left agency role — chasing better environment & bigger challenges
+* e5d2f10 Shipped Marketify 🛍️ — multi-vendor e-commerce (Next.js + Express + Redis)
+* b3a8c47 Built MeowMeal 🍜 — AI-powered food delivery with real-time tracking
+* 9f1e6b2 First dev job at an agency — production Next.js apps
+* 4d7a9e3 Founded DecodeMinds 🧠 — freelance web development
+* 1c0f5a8 Initial commit — CS student, Chattogram Polytechnic Institute
+```
+
+---
+
+## ⚙️ How I Architect Apps
+
+```mermaid
+graph LR
+    A[👤 Client] -->|HTTPS| B[⚡ Next.js App Router]
+    B -->|Server Actions / API| C[🧩 Modular Backend]
+    C -->|Prisma ORM| D[(🐘 PostgreSQL)]
+    C -->|Cache| E[(🔴 Redis)]
+    C -->|Auth| F[🔐 Better Auth / Firebase]
+    C -->|Real-time| G[📡 Socket.IO / Pusher]
+    B -->|State| H[🐻 Zustand]
+
+    style B fill:#1a1b27,stroke:#58a6ff,color:#58a6ff
+    style C fill:#1a1b27,stroke:#58a6ff,color:#58a6ff
+    style D fill:#1a1b27,stroke:#336791,color:#8b949e
+    style E fill:#1a1b27,stroke:#d82c20,color:#8b949e
+```
+
+> This is the blueprint behind every production app I ship — clean, modular, scalable.
 
 ---
 
@@ -57,6 +90,19 @@ Status     : Open to Work 🟢
 | 🌱 **EcoSpark Hub** | Sustainability platform | Next.js · Node.js · PostgreSQL |
 
 > 🔎 More projects on my [repositories](https://github.com/Ridoan-75?tab=repositories) & [portfolio](https://ridoan.pro.bd)
+
+---
+
+## 🎯 2026 Roadmap — Live Progress
+
+```text
+Docker & Containers      ████████████░░░░░░░░  60%   🐳 mid-course, WSL setup done
+System Design            ████░░░░░░░░░░░░░░░░  20%   📐 up next
+TanStack Query           ██████░░░░░░░░░░░░░░  30%   ⚡ learning
+Redis Deep Dive          ██░░░░░░░░░░░░░░░░░░  10%   🔴 queued
+AI Automation (RAG/n8n)  ███░░░░░░░░░░░░░░░░░  15%   🤖 exploring
+Land Next.js Dev Role    ████████████████░░░░  80%   🎯 interviewing
+```
 
 ---
 
