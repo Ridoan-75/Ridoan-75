@@ -61,7 +61,7 @@ graph LR
 
 <br/>
 
-<img src="[https://github-readme-trophies.vercel.app/](https://github-profile-trophy-eta-ten.vercel.app/)?username=Ridoan-75&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy-eta-ten.vercel.app/?username=Ridoan-75&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
 
 <br/>
 
