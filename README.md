@@ -52,8 +52,8 @@ graph LR
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats-tbb2.vercel.app/api?username=Ridoan-75&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
+<img height="165em" src="https://github-readme-stats-tbb2.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 <br/>
 
@@ -66,10 +66,6 @@ graph LR
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
