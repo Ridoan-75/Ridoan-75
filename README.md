@@ -11,6 +11,7 @@
 ---
 
 ## ⚙️ How I Architect Apps
+
 ```mermaid
 graph LR
     A[👤 Client] -->|HTTPS| B[Next.js App Router]
@@ -25,6 +26,7 @@ graph LR
     style D fill:#1a1b27,stroke:#336791,color:#8b949e
     style E fill:#1a1b27,stroke:#d82c20,color:#8b949e
 ```
+
 > This is the blueprint behind every production app I ship — clean, modular, scalable.
 
 ---
@@ -52,26 +54,34 @@ graph LR
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-tbb2.vercel.app/api?username=Ridoan-75&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
-<img height="165em" src="https://github-readme-stats-tbb2.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+### 1️⃣ Overall Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-<br/>
+### 2️⃣ Language Breakdown
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridoan-75&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="60%"/>
+### 3️⃣ Coding Time (WakaTime)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ridoan-75&hide_border=true&theme=tokyonight)
 
-<br/>
+### 4️⃣ Featured Projects
 
-<img src="https://github-profile-trophy-eta-ten.vercel.app/?username=Ridoan-75&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
+[![Royal Port Attire](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=royal-port-attire&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/royal-port-attire)
+[![DecodeMinds Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=portfolio-redesign&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/portfolio-redesign)
 
-<br/>
+[![Learning Platform](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=learning-platform&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/learning-platform)
+[![Video Agency Website](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=reelcraft-agency&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/reelcraft-agency)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+### 5️⃣ Contribution Activity
+![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=Ridoan-75&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity&area=true)
 
 </div>
 
 ---
 
 ## 📬 Connect With Me
+
 <div align="center">
 <a href="mailto:ridoan437@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
