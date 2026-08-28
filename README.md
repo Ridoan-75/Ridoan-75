@@ -61,7 +61,7 @@ graph LR
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)
 
 ### 3️⃣ Coding Time (WakaTime)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ridoan-75&hide_border=true&theme=tokyonight)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=e6ebdc4f-2f0c-40c1-92f8-707a5d659294&hide_border=true&theme=tokyonight)
 
 ### 4️⃣ Featured Projects
 
@@ -69,7 +69,7 @@ graph LR
 [![DecodeMinds Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=portfolio-redesign&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/portfolio-redesign)
 
 [![Learning Platform](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=learning-platform&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/learning-platform)
-[![Video Agency Website](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=reelcraft-agency&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/reelcraft-agency)
+[![Video Agency Site](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=video-agency-site&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/video-agency-site)
 
 ### 5️⃣ Contribution Activity
 ![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=Ridoan-75&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff)
