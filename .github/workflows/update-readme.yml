@@ -17,6 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -24,8 +25,7 @@ jobs:
           node-version: '18'
 
       - name: Install dependencies
-        run: |
-          npm install axios dotenv
+        run: npm install axios
 
       - name: Update README with stats
         run: node scripts/update-stats.js
@@ -35,14 +35,21 @@ jobs:
           GITHUB_USERNAME: Ridoan-75
 
       - name: Commit and push changes
-          run: |
+        run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          if git diff --quiet && git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
+          
+          # Check if there are changes
+          if ! git diff --quiet && git diff --staged --quiet; then
             git commit -m "chore: update stats [skip ci]"
+            
+            # Pull latest changes from remote with rebase
             git pull --rebase origin main
+            
+            # Push to main
             git push origin main
+            echo "✅ README updated successfully"
+          else
+            echo "ℹ️  No changes to commit"
           fi
