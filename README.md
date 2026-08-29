@@ -60,20 +60,27 @@ graph LR
 ### 2️⃣ Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-### 3️⃣ WakaTime Coding Stats
-![WakaTime Stats](https://wakatime.com/badge/user/e6ebdc4f-2f0c-40c1-92f8-707a5d659294/project/014130f3-d117-4991-8844-8da303d92418/all-time)
+### 3️⃣ WakaTime - Coding Activity
+<a href="https://wakatime.com/@e6ebdc4f-2f0c-40c1-92f8-707a5d659294">
+  <img src="https://wakatime.com/badge/user/e6ebdc4f-2f0c-40c1-92f8-707a5d659294/all-time/black" alt="WakaTime Badge" />
+</a>
 
 ### 4️⃣ GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=tokyonight&no-frame=true&row=2&column=3)
 
-### 5️⃣ GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ridoan-75&theme=tokyonight&hide_border=true)
+### 5️⃣ GitHub Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ridoan-75&theme=tokyonight)
 
-### 6️⃣ Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&area=true)
+### 6️⃣ Activity Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true)
 
 </div>
 
+---
+
+**💡 Quick Links:**
+- 📊 [WakaTime Profile](https://wakatime.com/@e6ebdc4f-2f0c-40c1-92f8-707a5d659294) - Check your complete coding stats
+- 🏆 [GitHub Profile](https://github.com/Ridoan-75) - View all repositories
 ---
 
 ## 📬 Connect With Me
