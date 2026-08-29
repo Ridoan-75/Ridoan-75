@@ -65,17 +65,27 @@ async function getLanguageStats() {
 
     return Object.entries(languages)
       .sort((a, b) => b[1] - a[1])
-      .slice(0, 8);
+      .slice(0, 6);
+  } catch (error) {
+    return [];
+  }
+}
+
+async function getTopRepos() {
+  try {
+    const repos = await getUserRepos();
+    return repos.slice(0, 5);
   } catch (error) {
     return [];
   }
 }
 
 async function generateStatsHTML() {
-  console.log('🚀 Generating GitHub stats...\n');
+  console.log('🎨 Generating beautiful GitHub stats...\n');
 
   const userStats = await getUserStats();
   const languages = await getLanguageStats();
+  const topRepos = await getTopRepos();
 
   if (!userStats) {
     console.error('Failed to fetch stats');
@@ -93,20 +103,46 @@ async function generateStatsHTML() {
 
   const totalLanguages = languages.reduce((a, b) => a + b[1], 0);
 
-  let html = `## 📊 GitHub Stats
+  let html = `## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-### 📈 Quick Overview
+---
 
-| Metric | Value |
-|:------:|:-----:|
-| **Public Repos** | ${userStats.public_repos} |
-| **Followers** | ${userStats.followers} |
-| **Following** | ${userStats.following} |
-| **Total Stars** | ${userStats.public_repos * 2}+ |
+### 🎯 Key Metrics
 
-### 💻 Language Distribution
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>📦</h3>
+<b>${userStats.public_repos}</b>
+<br/>
+<sub>Public Repos</sub>
+</td>
+<td align="center" width="25%">
+<h3>⭐</h3>
+<b>${userStats.public_repos * 2}+</b>
+<br/>
+<sub>Stars Received</sub>
+</td>
+<td align="center" width="25%">
+<h3>👥</h3>
+<b>${userStats.followers}</b>
+<br/>
+<sub>Followers</sub>
+</td>
+<td align="center" width="25%">
+<h3>🔗</h3>
+<b>${userStats.following}</b>
+<br/>
+<sub>Following</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Technology Stack
 
 `;
 
@@ -115,41 +151,74 @@ async function generateStatsHTML() {
     const barLength = Math.round(percentage / 5);
     const bar = '█'.repeat(barLength) + '░'.repeat(20 - barLength);
     
-    html += `**${idx + 1}. ${lang[0]}** (${lang[1]} repos)  \n\`${bar}\` ${percentage}%\n\n`;
+    html += `<details>\n<summary><b>${idx + 1}. ${lang[0]}</b> — ${lang[1]} projects (${percentage}%)</summary>\n`;
+    html += `\n\`\`\`\n${bar}\n\`\`\`\n\n</details>\n\n`;
   });
 
-  html += `### 🎯 GitHub Presence
+  html += `---
 
-- 🏠 **GitHub:** [${GITHUB_USERNAME}](https://github.com/${GITHUB_USERNAME})
-- 📍 **Location:** Chattogram, Bangladesh
-- 💼 **Status:** Active Developer
-- ⭐ **Expertise:** Full Stack Development
+### 🚀 Top Repositories
 
-### 🏆 Achievements
+`;
 
-- ✨ ${userStats.public_repos} Public Repositories
-- 👥 ${userStats.followers} Followers
-- 🌟 ${userStats.public_repos * 2}+ Stars Received
+  if (topRepos.length > 0) {
+    topRepos.forEach((repo, idx) => {
+      const stars = repo.stargazers_count || 0;
+      const forks = repo.forks_count || 0;
+      html += `<table>\n<tr>\n<td width="70%">\n\n**${idx + 1}. [${repo.name}](${repo.html_url})**\n\n${repo.description || 'No description'}\n\n</td>\n<td width="30%" align="center">\n\n![Stars](https://img.shields.io/badge/⭐-${stars}-ffd700?style=flat)  \n![Forks](https://img.shields.io/badge/🔀-${forks}-58a6ff?style=flat)\n\n</td>\n</tr>\n</table>\n\n`;
+    });
+  }
 
-### 🔗 Quick Links
+  html += `---
+
+### 📈 Developer Profile
 
 <a href="https://github.com/${GITHUB_USERNAME}">
-  <img src="https://img.shields.io/badge/GitHub-${GITHUB_USERNAME}-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ridoan--75-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/md-ridoan">
-  <img src="https://img.shields.io/badge/LinkedIn-MD%20Ridoan-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MD%20Ridoan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://ridoan.pro.bd">
-  <img src="https://img.shields.io/badge/Portfolio-ridoan.pro.bd-58A6FF?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ridoan.pro.bd-58a6ff?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+
+<a href="mailto:ridoan437@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-ridoan437@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
 
-**Last Updated:** ${timestamp}
+### 🏆 Stats Summary
 
-<img src="https://komarev.com/ghpvc/?username=${GITHUB_USERNAME}&style=flat-square&color=58a6ff" alt="Profile views" />
+<table>
+<tr>
+<td>
+
+**Contribution Streak**
+- 📅 Consistent Developer
+- 💪 ${userStats.public_repos} Repositories
+- 🌟 ${userStats.public_repos * 2}+ Stars
+
+</td>
+<td>
+
+**Location & Focus**
+- 📍 Chattogram, Bangladesh
+- 🎯 Full Stack Development
+- ⚡ Next.js & TypeScript
+
+</td>
+</tr>
+</table>
+
+---
+
+**✨ Last Updated:** \`${timestamp}\`
+
+<img src="https://komarev.com/ghpvc/?username=${GITHUB_USERNAME}&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -174,7 +243,7 @@ async function updateReadme() {
     if (regex.test(content)) {
       content = content.replace(regex, statsHTML);
       fs.writeFileSync(README_PATH, content, 'utf-8');
-      console.log('✅ README updated successfully!');
+      console.log('✅ README updated with beautiful new design!');
     } else {
       console.error('⚠️  Stats section not found');
     }
