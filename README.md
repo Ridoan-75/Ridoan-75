@@ -55,13 +55,13 @@ graph LR
 <div align="center">
 
 ### 1️⃣ Overall Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 ### 2️⃣ Language Breakdown
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=1800)
 
 ### 3️⃣ Coding Time (WakaTime)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=e6ebdc4f-2f0c-40c1-92f8-707a5d659294&hide_border=true&theme=tokyonight)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=e6ebdc4f-2f0c-40c1-92f8-707a5d659294&hide_border=true&theme=tokyonight&cache_seconds=1800)
 
 ### 4️⃣ Featured Projects
 
@@ -84,7 +84,7 @@ graph LR
 
 <div align="center">
 <a href="mailto:ridoan437@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/md-ridoan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://ridoan.pro.bd"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </div>
 
