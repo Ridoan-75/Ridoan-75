@@ -54,10 +54,10 @@ graph LR
 <div align="center">
 
 ### 1️⃣ Overall Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&token=ghs_15368_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJzTEROSnEyRGtjRzV1M1pJdGlxZS1xZUl2VTRlWDR6MW0weVZ0V3Y0U1pvX2JCNVpVZzZDdVl3IiwiZXhwIjoxNzg4MDA4MjUwLCJpYXQiOjE3ODgwMDQ2NTAsImlzcyI6ImdpdGh1YiIsImp0aSI6IjI5MTA2MWVkLWU2ZmYtNGZhNC04ZjRlLWQzMDNiYTEzNWVkMCIsInZlciI6M30.S185gcdvv65rTCX1S5G0K_F0rjopgcYWUwm03cXjWzHY48AgaB0-Nkkn4QpN5hmWdE4iHSZPxX7oMtQYTJ9zRQ" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 ### 2️⃣ Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&token=ghs_15368_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJzTEROSnEyRGtjRzV1M1pJdGlxZS1xZUl2VTRlWDR6MW0weVZ0V3Y0U1pvX2JCNVpVZzZDdVl3IiwiZXhwIjoxNzg4MDA4MjUwLCJpYXQiOjE3ODgwMDQ2NTAsImlzcyI6ImdpdGh1YiIsImp0aSI6IjI5MTA2MWVkLWU2ZmYtNGZhNC04ZjRlLWQzMDNiYTEzNWVkMCIsInZlciI6M30.S185gcdvv65rTCX1S5G0K_F0rjopgcYWUwm03cXjWzHY48AgaB0-Nkkn4QpN5hmWdE4iHSZPxX7oMtQYTJ9zRQ" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ### 3️⃣ GitHub Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=tokyonight&row=2&column=3&no-frame=true" alt="GitHub Trophy" />
@@ -65,7 +65,7 @@ graph LR
 ### 4️⃣ Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
-**Last Updated:** 08/29/2026, 05:57 PM
+**Last Updated:** 08/29/2026, 06:07 PM
 
 </div>
 
