@@ -54,21 +54,63 @@ graph LR
 
 <div align="center">
 
-### 1️⃣ Overall Statistics
+### 📈 Quick Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&token=ghs_15368_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiIxRzhlV04tU1hpTFNjN1dLQVN0OHdVc29PVXBVQjRKdmNNNWN3T1FSWUVqb3Q2UjBqSDBmaTVvIiwiZXhwIjoxNzg4MDEzMzQ0LCJpYXQiOjE3ODgwMDk3NDQsImlzcyI6ImdpdGh1YiIsImp0aSI6ImU5NDMyZDU4LTZiMTYtNGMwNC1hZWU0LWY2NzkyMWU0OWU2NiIsInZlciI6M30.TIK2ltN_WOkewRUWRy1R7Xd1H_-7pT8WMV5llS-IZJ4I4VLY_T8pOxr1oUnqWSiEC_NuI0gNbVkZsnCMGP_bTQ" alt="GitHub Stats" />
+| Metric | Value |
+|:------:|:-----:|
+| **Public Repos** | 52 |
+| **Followers** | 19 |
+| **Following** | 5 |
+| **Total Stars** | 104+ |
 
-### 2️⃣ Most Used Languages
+### 💻 Language Distribution
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&token=ghs_15368_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiIxRzhlV04tU1hpTFNjN1dLQVN0OHdVc29PVXBVQjRKdmNNNWN3T1FSWUVqb3Q2UjBqSDBmaTVvIiwiZXhwIjoxNzg4MDEzMzQ0LCJpYXQiOjE3ODgwMDk3NDQsImlzcyI6ImdpdGh1YiIsImp0aSI6ImU5NDMyZDU4LTZiMTYtNGMwNC1hZWU0LWY2NzkyMWU0OWU2NiIsInZlciI6M30.TIK2ltN_WOkewRUWRy1R7Xd1H_-7pT8WMV5llS-IZJ4I4VLY_T8pOxr1oUnqWSiEC_NuI0gNbVkZsnCMGP_bTQ" alt="Top Languages" />
+**1. TypeScript** (22 repos)  
+`█████████░░░░░░░░░░░` 47%
 
-### 3️⃣ GitHub Trophy
+**2. JavaScript** (15 repos)  
+`██████░░░░░░░░░░░░░░` 32%
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=tokyonight&row=2&column=3&no-frame=true" alt="GitHub Trophy" />
+**3. CSS** (7 repos)  
+`███░░░░░░░░░░░░░░░░░` 15%
 
-### 4️⃣ Activity Graph
+**4. HTML** (3 repos)  
+`█░░░░░░░░░░░░░░░░░░░` 6%
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+### 🎯 GitHub Presence
+
+- 🏠 **GitHub:** [Ridoan-75](https://github.com/Ridoan-75)
+- 📍 **Location:** Chattogram, Bangladesh
+- 💼 **Status:** Active Developer
+- ⭐ **Expertise:** Full Stack Development
+
+### 🏆 Achievements
+
+- ✨ 52 Public Repositories
+- 👥 19 Followers
+- 🌟 104+ Stars Received
+
+### 🔗 Quick Links
+
+<a href="https://github.com/Ridoan-75">
+  <img src="https://img.shields.io/badge/GitHub-Ridoan-75-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+<a href="https://linkedin.com/in/md-ridoan">
+  <img src="https://img.shields.io/badge/LinkedIn-MD%20Ridoan-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+
+<a href="https://ridoan.pro.bd">
+  <img src="https://img.shields.io/badge/Portfolio-ridoan.pro.bd-58A6FF?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
+</a>
+
+---
+
+**Last Updated:** 08/29/2026, 07:31 PM
+
+<img src="https://komarev.com/ghpvc/?username=Ridoan-75&style=flat-square&color=58a6ff" alt="Profile views" />
+
+</div>
 
 ---
 
