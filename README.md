@@ -54,22 +54,23 @@ graph LR
 
 <div align="center">
 
-### 1️⃣ Contribution Graph
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&area=true)
+### 1️⃣ Overall Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-### 2️⃣ GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Ridoan-75&theme=tokyonight)
+### 2️⃣ Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-### 3️⃣ GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=tokyonight&no-frame=true)
+### 3️⃣ WakaTime Coding Stats
+![WakaTime Stats](https://wakatime.com/badge/user/e6ebdc4f-2f0c-40c1-92f8-707a5d659294/project/014130f3-d117-4991-8844-8da303d92418/all-time)
 
-### 4️⃣ Most Used Languages
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&theme=tokyonight" alt="Top Languages">
+### 4️⃣ GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=tokyonight&no-frame=true&row=2&column=3)
 
-### 5️⃣ Quick Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+### 5️⃣ GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ridoan-75&theme=tokyonight&hide_border=true)
+
+### 6️⃣ Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
