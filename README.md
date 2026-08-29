@@ -55,26 +55,21 @@ graph LR
 <div align="center">
 
 ### 1️⃣ Overall Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800)
+[![Ridoan's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight)](https://github.com/Ridoan-75)
 
-### 2️⃣ Language Breakdown
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=1800)
+### 2️⃣ Stats Overview
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=tokyonight)](https://github.com/Ridoan-75)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=tokyonight)](https://github.com/Ridoan-75)
 
-### 3️⃣ Coding Time (WakaTime)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=e6ebdc4f-2f0c-40c1-92f8-707a5d659294&hide_border=true&theme=tokyonight&cache_seconds=1800)
+### 3️⃣ Most Committed Language
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridoan-75&theme=tokyonight)](https://github.com/Ridoan-75)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ridoan-75&theme=tokyonight&utc=true)](https://github.com/Ridoan-75)
 
-### 4️⃣ Featured Projects
+### 4️⃣ Contribution Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=Ridoan-75&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff)
 
-[![Royal Port Attire](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=royal-port-attire&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/royal-port-attire)
-[![DecodeMinds Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=portfolio-redesign&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/portfolio-redesign)
-
-[![Learning Platform](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=learning-platform&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/learning-platform)
-[![Video Agency Site](https://github-readme-stats.vercel.app/api/pin/?username=Ridoan-75&repo=video-agency-site&theme=tokyonight&hide_border=true)](https://github.com/Ridoan-75/video-agency-site)
-
-### 5️⃣ Contribution Activity
-![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=Ridoan-75&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity&area=true)
+### 5️⃣ GitHub Trophies
+![github trophies](https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3)
 
 </div>
 
