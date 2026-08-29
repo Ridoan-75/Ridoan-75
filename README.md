@@ -56,11 +56,11 @@ graph LR
 
 ### 1️⃣ Overall Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 ### 2️⃣ Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ### 3️⃣ WakaTime - Coding Activity
 
@@ -70,7 +70,7 @@ graph LR
 
 ### 4️⃣ Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
