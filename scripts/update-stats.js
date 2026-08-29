@@ -7,101 +7,62 @@ const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const WAKATIME_API_KEY = process.env.WAKATIME_API_KEY;
 const README_PATH = path.join(__dirname, '..', 'README.md');
 
-function makeRequest(url, headers = {}) {
-  return new Promise((resolve, reject) => {
+// External services URLs
+function getStatsUrls() {
+  const tokenParam = GITHUB_TOKEN ? `&token=${GITHUB_TOKEN}` : '';
+  
+  return {
+    stats: `https://github-readme-stats.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true${tokenParam}`,
+    
+    languages: `https://github-readme-stats.vercel.app/api/top-langs/?username=${GITHUB_USERNAME}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true${tokenParam}`,
+    
+    activity: `https://github-readme-activity-graph.vercel.app/graph?username=${GITHUB_USERNAME}&theme=tokyo-night&hide_border=true&area=true`,
+    
+    trophy: `https://github-profile-trophy.vercel.app/?username=${GITHUB_USERNAME}&theme=tokyonight&row=2&column=3&no-frame=true`
+  };
+}
+
+// Fetch WakaTime stats
+async function getWakaTimeStats() {
+  if (!WAKATIME_API_KEY) return null;
+
+  return new Promise((resolve) => {
+    const url = 'https://wakatime.com/api/v1/users/current/stats/all_time';
     const options = {
       headers: {
-        'User-Agent': 'GitHub-Stats-Generator',
-        'Accept': 'application/vnd.github.v3+json',
-        ...headers
+        'Authorization': `Bearer ${WAKATIME_API_KEY}`,
+        'User-Agent': 'GitHub-Stats'
       }
     };
-
-    if (GITHUB_TOKEN) {
-      options.headers['Authorization'] = `token ${GITHUB_TOKEN}`;
-    }
 
     https.get(url, options, (res) => {
       let data = '';
       res.on('data', chunk => data += chunk);
       res.on('end', () => {
         try {
-          resolve(JSON.parse(data));
+          const json = JSON.parse(data);
+          if (json.data) {
+            const totalSeconds = json.data.total_seconds;
+            resolve({
+              hours: Math.round(totalSeconds / 3600),
+              days: Math.round(totalSeconds / 86400)
+            });
+          } else {
+            resolve(null);
+          }
         } catch (e) {
-          reject(e);
+          resolve(null);
         }
       });
-    }).on('error', reject);
+    }).on('error', () => resolve(null));
   });
 }
 
-async function getUserStats() {
-  try {
-    const data = await makeRequest(`https://api.github.com/users/${GITHUB_USERNAME}`);
-    return data;
-  } catch (error) {
-    return null;
-  }
-}
-
-async function getUserRepos() {
-  try {
-    const data = await makeRequest(`https://api.github.com/users/${GITHUB_USERNAME}/repos?per_page=100&sort=stars&direction=desc`);
-    return Array.isArray(data) ? data : [];
-  } catch (error) {
-    return [];
-  }
-}
-
-async function getLanguageStats() {
-  try {
-    const repos = await getUserRepos();
-    const languages = {};
-
-    for (const repo of repos) {
-      if (repo.language) {
-        languages[repo.language] = (languages[repo.language] || 0) + 1;
-      }
-    }
-
-    return Object.entries(languages)
-      .sort((a, b) => b[1] - a[1])
-      .slice(0, 6);
-  } catch (error) {
-    return [];
-  }
-}
-
-async function getWakaTimeStats() {
-  if (!WAKATIME_API_KEY) return null;
-
-  try {
-    const data = await makeRequest('https://wakatime.com/api/v1/users/current/stats/all_time', {
-      'Authorization': `Bearer ${WAKATIME_API_KEY}`
-    });
-
-    if (data.data) {
-      const totalSeconds = data.data.total_seconds;
-      return {
-        hours: Math.round(totalSeconds / 3600),
-        days: Math.round(totalSeconds / 86400)
-      };
-    }
-    return null;
-  } catch (error) {
-    return null;
-  }
-}
-
 async function generateStatsHTML() {
-  console.log('🚀 Generating professional stats...\n');
+  console.log('🚀 Generating GitHub stats...\n');
 
-  const userStats = await getUserStats();
-  const languages = await getLanguageStats();
+  const urls = getStatsUrls();
   const wakaTime = await getWakaTimeStats();
-
-  if (!userStats) return null;
-
   const timestamp = new Date().toLocaleString('en-US', {
     timeZone: 'Asia/Dhaka',
     year: 'numeric',
@@ -111,107 +72,46 @@ async function generateStatsHTML() {
     minute: '2-digit'
   });
 
-  const totalLanguages = languages.reduce((a, b) => a + b[1], 0);
-
-  let html = `## 📊 GitHub Statistics
+  let html = `## 📊 GitHub Stats
 
 <div align="center">
 
-### 🎯 Core Metrics
+### 1️⃣ Overall Statistics
 
-[![Repos](https://img.shields.io/badge/Repos-${userStats.public_repos}-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0d1117&color=58a6ff)](https://github.com/${GITHUB_USERNAME}?tab=repositories)
-[![Followers](https://img.shields.io/badge/Followers-${userStats.followers}-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0d1117&color=58a6ff)](https://github.com/${GITHUB_USERNAME}?tab=followers)
-[![Stars](https://img.shields.io/badge/Stars-${userStats.public_repos * 2}+-0d1117?style=flat-square&logo=github&logoColor=ffd700&labelColor=0d1117&color=ffd700)](https://github.com/search?q=user:${GITHUB_USERNAME}&type=repositories&sort=stars)
+<img src="${urls.stats}" alt="GitHub Stats" />
 
----
+### 2️⃣ Most Used Languages
 
-### 💻 Tech Stack (Most Used Languages)
+<img src="${urls.languages}" alt="Top Languages" />
 
-`;
+### 3️⃣ GitHub Trophy
 
-  languages.forEach((lang, idx) => {
-    const count = lang[1];
-    const percentage = Math.round((count / totalLanguages) * 100);
-    const barLength = Math.round(percentage / 5);
-    const bar = '█'.repeat(barLength) + '░'.repeat(20 - barLength);
-    
-    html += `\`${lang[0]}\` ${bar} ${percentage}%\n\n`;
-  });
+<img src="${urls.trophy}" alt="GitHub Trophy" />
 
-  html += `---
+### 4️⃣ Activity Graph
 
-### 🏆 Statistics Overview
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/PUBLIC%20REPOS-${userStats.public_repos}-58a6ff?style=for-the-badge&labelColor=0d1117" />
-      <br/><sub>Active Projects</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/FOLLOWERS-${userStats.followers}-ff69b4?style=for-the-badge&labelColor=0d1117" />
-      <br/><sub>Community</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/STARS-${userStats.public_repos * 2}+-ffd700?style=for-the-badge&labelColor=0d1117" />
-      <br/><sub>Total Stars</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Quick Info
-
-| 📍 Location | 🎯 Focus | ⭐ Status | 📧 Contact |
-|:---|:---|:---|:---|
-| **Chattogram, Bangladesh** | **Full Stack** | **Active** | **ridoan437@gmail.com** |
+<img src="${urls.activity}" alt="Activity Graph" />
 
 `;
 
   if (wakaTime) {
-    html += `---
+    html += `### 5️⃣ Coding Activity (WakaTime)
 
-### ⏱️ Coding Activity (WakaTime)
-
-![Coding Hours](https://img.shields.io/badge/Total%20Hours-${wakaTime.hours}%20hrs-1f6feb?style=for-the-badge&labelColor=0d1117)
-![Coding Days](https://img.shields.io/badge/Days%20Coded-${wakaTime.days}%2B-1f6feb?style=for-the-badge&labelColor=0d1117)
+**Total Coding Time:** ${wakaTime.hours.toLocaleString()} hours  
+**Days Coded:** ${wakaTime.days}+ days
 
 `;
   }
 
   html += `---
 
-### 🛠️ Skills & Expertise
+**Last Updated:** ${timestamp}
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Pro-336791?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=${GITHUB_USERNAME}&style=flat-square&color=58a6ff" alt="Profile views" />
 
-![Prisma](https://img.shields.io/badge/Prisma-Expert-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Pro-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Pro-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-Expert-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Pro-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+</div>
 
----
-
-### 🏅 GitHub Trophy
-
-<a href="https://github.com/${GITHUB_USERNAME}">
-  <img src="https://github-profile-trophy.vercel.app/?username=${GITHUB_USERNAME}&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=5" alt="GitHub Trophies" width="100%" />
-</a>
-
----
-
-**📅 Updated:** \`${timestamp}\`  
-**🔗 [View Full Profile](https://github.com/${GITHUB_USERNAME})**
-
-</div>`;
+---`;
 
   return html;
 }
@@ -227,7 +127,7 @@ async function updateReadme() {
       return;
     }
 
-    const regex = /## 📊 GitHub Statistics[\s\S]*?<\/div>/;
+    const regex = /## 📊 GitHub Stats[\s\S]*?---/;
     
     if (regex.test(content)) {
       content = content.replace(regex, statsHTML);
