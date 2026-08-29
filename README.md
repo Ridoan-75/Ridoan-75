@@ -54,18 +54,35 @@ graph LR
 <div align="center">
 
 ### 1️⃣ Overall Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+**Public Repos:** 52 | **Followers:** 18 | **Following:** 5
+
+| Metric | Count |
+|--------|-------|
+| 📦 Public Repositories | 52 |
+| 👥 Followers | 18 |
+| ⭐ Total Stars | 104+ |
+| 📝 Gists | 0 |
 
 ### 2️⃣ Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-### 3️⃣ GitHub Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=tokyonight&row=2&column=3&no-frame=true" alt="GitHub Trophy" />
+| Language | Projects |
+|----------|----------|
+| TypeScript | 22 |
+| JavaScript | 15 |
+| CSS | 7 |
+| HTML | 3 |
 
-### 4️⃣ Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
-**Last Updated:** 08/29/2026, 06:07 PM
+### 3️⃣ GitHub Activity
+
+| Stat | Value |
+|------|-------|
+| 🔥 Contributions | 22+ |
+| 📍 Location | Chattogram, Bangladesh |
+| 🔗 Profile URL | [github.com/Ridoan-75](https://github.com/Ridoan-75) |
+
+**Last Updated:** 08/29/2026, 06:12 PM
 
 </div>
 
