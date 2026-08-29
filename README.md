@@ -54,22 +54,22 @@ graph LR
 
 <div align="center">
 
-### 1️⃣ Overall Statistics
-[![Ridoan's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight)](https://github.com/Ridoan-75)
+### 1️⃣ Contribution Graph
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&area=true)
 
-### 2️⃣ Stats Overview
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=tokyonight)](https://github.com/Ridoan-75)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=tokyonight)](https://github.com/Ridoan-75)
+### 2️⃣ GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Ridoan-75&theme=tokyonight)
 
-### 3️⃣ Most Committed Language
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridoan-75&theme=tokyonight)](https://github.com/Ridoan-75)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ridoan-75&theme=tokyonight&utc=true)](https://github.com/Ridoan-75)
+### 3️⃣ GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=tokyonight&no-frame=true)
 
-### 4️⃣ Contribution Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=Ridoan-75&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff)
+### 4️⃣ Most Used Languages
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&theme=tokyonight" alt="Top Languages">
 
-### 5️⃣ GitHub Trophies
-![github trophies](https://github-profile-trophy.vercel.app/?username=Ridoan-75&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3)
+### 5️⃣ Quick Stats
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
