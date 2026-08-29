@@ -51,28 +51,23 @@ graph LR
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
 ### 1️⃣ Overall Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ridoan-75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="placeholder" alt="GitHub Stats" />
 
 ### 2️⃣ Most Used Languages
+<img src="placeholder" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoan-75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-### 3️⃣ WakaTime - Coding Activity
-
-<a href="https://wakatime.com/@e6ebdc4f-2f0c-40c1-92f8-707a5d659294">
-  <img src="https://wakatime.com/badge/user/e6ebdc4f-2f0c-40c1-92f8-707a5d659294/all-time/black" alt="WakaTime Badge" />
-</a>
+### 3️⃣ GitHub Trophy
+<img src="placeholder" alt="GitHub Trophy" />
 
 ### 4️⃣ Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridoan-75&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img src="placeholder" alt="Activity Graph" />
 
 </div>
+
+---
 
 ---
 
