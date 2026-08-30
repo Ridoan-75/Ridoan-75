@@ -48,13 +48,12 @@ graph LR
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| 📦 Public Repos | **52** |
-| 👥 Followers | **19** |
-| 🔗 Following | **5** |
-| ⭐ Stars | **104+** |
-| 📝 Gists | **0** |
+### Core Metrics
+
+[![Public Repos](https://img.shields.io/badge/Public_Repos-52-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ridoan-75?tab=repositories)
+[![Followers](https://img.shields.io/badge/Followers-19-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ridoan-75?tab=followers)
+[![Following](https://img.shields.io/badge/Following-5-8b949e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ridoan-75?tab=following)
+[![Total Stars](https://img.shields.io/badge/Total_Stars-104+-ffd700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/search?q=user:Ridoan-75&type=repositories&sort=stars)
 
 </div>
 
