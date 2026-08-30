@@ -50,14 +50,231 @@ graph LR
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-### 📈 Quick Overview
+---
 
-| Metric | Value |
-|:------:|:-----:|
+### 🎯 Key Metrics
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>📦</h3>
+<b>52</b>
+<br/>
+<sub>Public Repos</sub>
+</td>
+<td align="center" width="25%">
+<h3>⭐</h3>
+<b>104+</b>
+<br/>
+<sub>Stars Received</sub>
+</td>
+<td align="center" width="25%">
+<h3>👥</h3>
+<b>19</b>
+<br/>
+<sub>Followers</sub>
+</td>
+<td align="center" width="25%">
+<h3>🔗</h3>
+<b>5</b>
+<br/>
+<sub>Following</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Technology Stack
+
+<details>
+<summary><b>1. TypeScript</b> — 22 projects (47%)</summary>
+
+```
+█████████░░░░░░░░░░░
+```
+
+</details>
+
+<details>
+<summary><b>2. JavaScript</b> — 15 projects (32%)</summary>
+
+```
+██████░░░░░░░░░░░░░░
+```
+
+</details>
+
+<details>
+<summary><b>3. CSS</b> — 7 projects (15%)</summary>
+
+```
+███░░░░░░░░░░░░░░░░░
+```
+
+</details>
+
+<details>
+<summary><b>4. HTML</b> — 3 projects (6%)</summary>
+
+```
+█░░░░░░░░░░░░░░░░░░░
+```
+
+</details>
+
+---
+
+### 🚀 Top Repositories
+
+<table>
+<tr>
+<td width="70%">
+
+**1. [BE-A-TESTING-ENGINEER](https://github.com/Ridoan-75/BE-A-TESTING-ENGINEER)**
+
+A comprehensive roadmap, resources, and hands-on guide to becoming a successful Software Testing & QA Engineer.
+
+</td>
+<td width="30%" align="center">
+
+![Stars](https://img.shields.io/badge/⭐-1-ffd700?style=flat)  
+![Forks](https://img.shields.io/badge/🔀-1-58a6ff?style=flat)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="70%">
+
+**2. [github-profile-trophy](https://github.com/Ridoan-75/github-profile-trophy)**
+
+🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+
+</td>
+<td width="30%" align="center">
+
+![Stars](https://img.shields.io/badge/⭐-0-ffd700?style=flat)  
+![Forks](https://img.shields.io/badge/🔀-0-58a6ff?style=flat)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="70%">
+
+**3. [github-readme-stats](https://github.com/Ridoan-75/github-readme-stats)**
+
+:zap: Dynamically generated stats for your github readmes
+
+</td>
+<td width="30%" align="center">
+
+![Stars](https://img.shields.io/badge/⭐-0-ffd700?style=flat)  
+![Forks](https://img.shields.io/badge/🔀-0-58a6ff?style=flat)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="70%">
+
+**4. [Docker-practice](https://github.com/Ridoan-75/Docker-practice)**
+
+Welcome to this repository dude....
+
+</td>
+<td width="30%" align="center">
+
+![Stars](https://img.shields.io/badge/⭐-0-ffd700?style=flat)  
+![Forks](https://img.shields.io/badge/🔀-0-58a6ff?style=flat)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="70%">
+
+**5. [This-repository-open-for-an-acvhiement-Quick-Draw-](https://github.com/Ridoan-75/This-repository-open-for-an-acvhiement-Quick-Draw-)**
+
+No description
+
+</td>
+<td width="30%" align="center">
+
+![Stars](https://img.shields.io/badge/⭐-0-ffd700?style=flat)  
+![Forks](https://img.shields.io/badge/🔀-0-58a6ff?style=flat)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Developer Profile
+
+<a href="https://github.com/Ridoan-75">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ridoan--75-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/md-ridoan">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MD%20Ridoan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://ridoan.pro.bd">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ridoan.pro.bd-58a6ff?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+
+<a href="mailto:ridoan437@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-ridoan437@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+---
+
+### 🏆 Stats Summary
+
+<table>
+<tr>
+<td>
+
+**Contribution Streak**
+- 📅 Consistent Developer
+- 💪 52 Repositories
+- 🌟 104+ Stars
+
+</td>
+<td>
+
+**Location & Focus**
+- 📍 Chattogram, Bangladesh
+- 🎯 Full Stack Development
+- ⚡ Next.js & TypeScript
+
+</td>
+</tr>
+</table>
+
+---
+
+**✨ Last Updated:** `08/30/2026, 11:07 AM`
+
+<img src="https://komarev.com/ghpvc/?username=Ridoan-75&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+------:|:-----:|
 | **Public Repos** | 52 |
 | **Followers** | 19 |
 | **Following** | 5 |
