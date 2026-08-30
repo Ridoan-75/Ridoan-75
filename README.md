@@ -34,20 +34,11 @@ graph LR
 
 <div align="center">
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-</p>
-
-### Backend & Data
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,firebase,mongodb" />
-</p>
-
-### DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" />
-</p>
+| Area | Technologies |
+|------|---------------|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" /> |
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,firebase,mongodb" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" /> |
 
 </div>
 
@@ -57,24 +48,24 @@ graph LR
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight" alt="Profile Details" />
+
+<br/><br/>
+
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight" alt="Profile Details" />
-</td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=tokyonight" alt="Stats" />
 </td>
-</tr>
-<tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=tokyonight" alt="Repos per Language" />
-</td>
-<td align="center" width="25%">
-<img src="https://streak-stats.demolab.com/?user=Ridoan-75&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Ridoan-75&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
@@ -83,8 +74,9 @@ graph LR
 ## ⏱️ WakaTime Stats
 
 <div align="center">
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://wakatime.com/badge/user/e6ebdc4f-2f0c-40c1-92f8-707a5d659294.svg" alt="WakaTime Badge"/>
+<br/>
+<sub>Updated via WakaTime public insights</sub>
 </div>
 
 ---
