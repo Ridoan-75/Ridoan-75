@@ -4,62 +4,78 @@
 </div>
 
 ## 🧑‍💻 About Me
+
 <div align="center">
 <img src="./assets/about-me.svg" width="100%" alt="About Me"/>
 </div>
 
 ---
 
-## ⚙️ How I Architect Apps
+## ⚙️ Architecture Philosophy
 
 ```mermaid
 graph LR
-    A[👤 Client] -->|HTTPS| B[Next.js App Router]
-    B -->|Server Actions / API| C[Modular Backend]
-    C -->|Prisma ORM| D[(PostgreSQL)]
+    A[Client] -->|HTTPS| B[Next.js App Router]
+    B -->|Server Actions| C[Modular Backend]
+    C -->|ORM| D[(PostgreSQL)]
     C -->|Cache| E[(Redis)]
     C -->|Auth| F[Better Auth / Firebase]
     C -->|Real-time| G[Socket.IO / Pusher]
     B -->|State| H[Zustand]
     style B fill:#1a1b27,stroke:#58a6ff,color:#58a6ff
     style C fill:#1a1b27,stroke:#58a6ff,color:#58a6ff
-    style D fill:#1a1b27,stroke:#336791,color:#8b949e
-    style E fill:#1a1b27,stroke:#d82c20,color:#8b949e
 ```
 
-> This is the blueprint behind every production app I ship — clean, modular, scalable.
+> Production-grade apps built with clean separation, scalability, and performance in mind.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
+
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-**Backend & Database**
+### Backend & Data
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,firebase,mongodb" />
 </p>
 
-**Tools & DevOps**
+### DevOps & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" />
 </p>
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight" alt="Profile Details" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=tokyonight" alt="Stats" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=tokyonight" alt="Repos per Language" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Ridoan-75&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight" alt="Profile Details" />
+</td>
+<td align="center" width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=tokyonight" alt="Stats" />
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=tokyonight" alt="Repos per Language" />
+</td>
+<td align="center" width="25%">
+<img src="https://streak-stats.demolab.com/?user=Ridoan-75&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -73,23 +89,30 @@ graph LR
 
 ---
 
----
+## 🏆 Featured Repositories
 
-> 🏆 **Achievements & More:** View on [GitHub Profile](https://github.com/Ridoan-75) | [WakaTime Stats](https://wakatime.com/@e6ebdc4f-2f0c-40c1-92f8-707a5d659294)
+<div align="center">
 
----
+| Repository | Description | Stars | Forks |
+|------------|-------------|-------|-------|
+| [**BE-A-TESTING-ENGINEER**](https://github.com/Ridoan-75/BE-A-TESTING-ENGINEER) | QA & Software Testing roadmap and hands-on guide | ⭐ 1 | 🔀 1 |
+| [**github-profile-trophy**](https://github.com/Ridoan-75/github-profile-trophy) | Dynamically generated GitHub stat trophies for README | ⭐ 0 | 🔀 0 |
+| [**github-readme-stats**](https://github.com/Ridoan-75/github-readme-stats) | :zap: Dynamically generated stats for GitHub READMEs | ⭐ 0 | 🔀 0 |
+| [**Docker-practice**](https://github.com/Ridoan-75/Docker-practice) | Docker practice repository | ⭐ 0 | 🔀 0 |
 
-**💡 Quick Links:**
-- 📊 [WakaTime Profile](https://wakatime.com/@e6ebdc4f-2f0c-40c1-92f8-707a5d659294) - Check your complete coding stats
-- 🏆 [GitHub Profile](https://github.com/Ridoan-75) - View all repositories
+</div>
+
 ---
 
 ## 📬 Connect With Me
 
 <div align="center">
-<a href="mailto:ridoan437@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/md-ridoan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ridoan.pro.bd"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridoan437@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ridoan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ridoan.pro.bd)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ridoan-75)
+
 </div>
 
 <div align="center">
