@@ -50,40 +50,25 @@ graph LR
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight" alt="Profile Details" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=tokyonight" alt="Stats" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=tokyonight" alt="Repos per Language" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Ridoan-75&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
 
-### 1️⃣ Overall Statistics
+---
 
-**Public Repos:** 52 | **Followers:** 18 | **Following:** 5
+## ⏱️ WakaTime Stats
 
-| Metric | Count |
-|--------|-------|
-| 📦 Public Repositories | 52 |
-| 👥 Followers | 18 |
-| ⭐ Total Stars | 104+ |
-| 📝 Gists | 0 |
-
-### 2️⃣ Most Used Languages
-
-| Language | Projects |
-|----------|----------|
-| TypeScript | 22 |
-| JavaScript | 15 |
-| CSS | 7 |
-| HTML | 3 |
-
-
-### 3️⃣ GitHub Activity
-
-| Stat | Value |
-|------|-------|
-| 🔥 Contributions | 22+ |
-| 📍 Location | Chattogram, Bangladesh |
-| 🔗 Profile URL | [github.com/Ridoan-75](https://github.com/Ridoan-75) |
-
-**Last Updated:** 08/29/2026, 06:12 PM
-
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 
 ---
