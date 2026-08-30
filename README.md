@@ -1,15 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Md%20Ridoan&fontSize=60&fontColor=58A6FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Next.js%20%7C%20Node.js;Building%20scalable%20systems%20from%20Chittagong%20%F0%9F%87%A7%F0%9F%87%A9;PostgreSQL%20%C2%B7%20Prisma%20%C2%B7%20TypeScript%20%C2%B7%20Docker;Open%20to%20Work%20%F0%9F%9F%A2" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer%20%7C%20Next.js%20%7C%20Node.js;Building%20scalable%20systems%20from%20Chittagong%20%F0%9F%87%A7%F0%9F%87%A9;PostgreSQL%20%C2%B7%20Prisma%20%C2%B7%20TypeScript%20%C2%B7%20Docker;Open%20to%20Work%20%F0%9F%9F%A2" alt="Typing SVG"/>
 </div>
-
-## 🧑‍💻 About Me
-
-<div align="center">
-<img src="./assets/about-me.svg" width="100%" alt="About Me"/>
-</div>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -41,6 +33,14 @@
 </tr>
 </table>
 
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+<div align="center">
+<img src="./assets/about-me.svg" width="100%" alt="About Me"/>
 </div>
 
 ---
