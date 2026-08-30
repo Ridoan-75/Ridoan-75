@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Md%20Ridoan&fontSize=60&fontColor=58A6FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Next.js+%7C+Node.js;Building+scalable+systems+from+Chittagong+%F0%9F%87%A7%F0%9F%87%A9;PostgreSQL+%C2%B7+Prisma+%C2%B7+TypeScript+%C2%B7+Docker;Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Next.js+%7C+Node.js;Building+scalable+systems+from+Chittagong+%F0%9F%87%A7%F0%9F%87%A9;PostgreSQL+%C2%B7+Prisma+%C2%B7+TypeScript+%C2%B7+Docker;Open%20to%20Work%20%F0%9F%9F%A2" alt="Typing SVG"/>
 </div>
 
 ## 🧑‍💻 About Me
@@ -34,20 +34,11 @@ graph LR
 
 <div align="center">
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-</p>
-
-### Backend & Data
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,firebase,mongodb" />
-</p>
-
-### DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" />
-</p>
+| Area | Technologies |
+|------|---------------|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" /> |
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,firebase,mongodb" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" /> |
 
 </div>
 
@@ -59,18 +50,16 @@ graph LR
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight" alt="Profile Details" />
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=tokyonight" alt="Stats" />
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=tokyonight" alt="Repos per Language" />
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img src="https://streak-stats.demolab.com/?user=Ridoan-75&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </td>
 </tr>
