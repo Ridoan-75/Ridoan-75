@@ -1,12 +1,46 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Md%20Ridoan&fontSize=60&fontColor=58A6FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Next.js+%7C+Node.js;Building+scalable%20systems%20from%20Chittagong%20%F0%9F%87%A7%F0%9F%87%A9;PostgreSQL%20%C2%B7%20Prisma%20%C2%B7%20TypeScript%20%C2%B7%20Docker;Open%20to%20Work%20%F0%9F%9F%A2" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Next.js%20%7C%20Node.js;Building%20scalable%20systems%20from%20Chittagong%20%F0%9F%87%A7%F0%9F%87%A9;PostgreSQL%20%C2%B7%20Prisma%20%C2%B7%20TypeScript%20%C2%B7%20Docker;Open%20to%20Work%20%F0%9F%9F%A2" alt="Typing SVG"/>
 </div>
 
 ## 🧑‍💻 About Me
 
 <div align="center">
 <img src="./assets/about-me.svg" width="100%" alt="About Me"/>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+### Core Metrics
+
+[![Public Repos](https://img.shields.io/badge/Public_Repos-52-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ridoan-75?tab=repositories)
+[![Followers](https://img.shields.io/badge/Followers-19-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ridoan-75?tab=followers)
+[![Following](https://img.shields.io/badge/Following-5-8b949e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ridoan-75?tab=following)
+[![Total Stars](https://img.shields.io/badge/Total_Stars-104+-ffd700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/search?q=user:Ridoan-75&type=repositories&sort=stars)
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight" alt="Profile Details" />
+</td>
+<td align="center" width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=tokyonight" alt="Stats" />
+</td>
+<td align="center" width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=tokyonight" alt="Repos per Language" />
+</td>
+<td align="center" width="25%">
+<img src="https://streak-stats.demolab.com/?user=Ridoan-75&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -39,42 +73,6 @@ graph LR
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" /> |
 | **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,firebase,mongodb" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" /> |
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### Core Metrics
-
-[![Public Repos](https://img.shields.io/badge/Public_Repos-52-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ridoan-75?tab=repositories)
-[![Followers](https://img.shields.io/badge/Followers-19-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ridoan-75?tab=followers)
-[![Following](https://img.shields.io/badge/Following-5-8b949e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ridoan-75?tab=following)
-[![Total Stars](https://img.shields.io/badge/Total_Stars-104+-ffd700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/search?q=user:Ridoan-75&type=repositories&sort=stars)
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight" alt="Profile Details" />
-</td>
-<td align="center" width="25%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=tokyonight" alt="Stats" />
-</td>
-<td align="center" width="25%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=tokyonight" alt="Repos per Language" />
-</td>
-<td align="center" width="25%">
-<img src="https://streak-stats.demolab.com/?user=Ridoan-75&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
 
 </div>
 
