@@ -1,22 +1,32 @@
 <div align="center">
+
+# Hi, I'm Md Ridoan
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Md%20Ridoan&fontSize=60&fontColor=58A6FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Next.js+%7C+Node.js;Building%20scalable%20systems%20from%20Chittagong%20%F0%9F%87%A7%F0%9F%87%A9;PostgreSQL%20%C2%B7%20Prisma%20%C2%B7%20TypeScript%20%C2%B7%20Docker;Open%20to%20Work%20%F0%9F%9F%A2" alt="Typing SVG"/>
-</div>
 
-## 🧑‍💻 About Me
-
-<div align="center">
-<img src="./assets/about-me.svg" width="100%" alt="About Me" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+I'm a Full Stack Developer based in Chittagong, Bangladesh, passionate about building scalable, performant web applications. I specialize in the **Next.js** and **Node.js** ecosystem, with a strong focus on clean architecture, type safety, and developer experience.
+
+- 🔭 Currently building production-grade applications with **Next.js**, **TypeScript**, and **PostgreSQL**
+- 🌱 Deepening expertise in **system design**, **DevOps**, and **distributed systems**
+- 👯 Open to collaborating on open-source projects and remote opportunities
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, **Prisma**, or **Docker**
+
+---
+
+## Tech Stack
 
 <div align="center">
 
 | Area | Technologies |
-|------|---------------|
+|------|--------------|
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" /> |
 | **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,firebase,mongodb" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" /> |
@@ -25,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -48,16 +58,7 @@
 
 ---
 
-## ⏱️ WakaTime Stats
-
-<div align="center">
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-</div>
-
----
-
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
