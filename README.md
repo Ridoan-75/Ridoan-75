@@ -29,17 +29,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=tokyonight" alt="Profile Details" width="480" height="180" />
 
 <br/><br/>
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=tokyonight" alt="Stats" width="480" height="180" />
 </td>
 <td align="center" width="50%">
-<img src="https://streak-stats.demolab.com/?user=Ridoan-75&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Ridoan-75&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="480" height="180" />
 </td>
 </tr>
 </table>
