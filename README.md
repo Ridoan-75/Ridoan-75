@@ -18,6 +18,18 @@
 
 <div align="center">
 
+| Category | Technologies |
+|:---|:---:|
+| <span style="color: #d946ef;"><strong>Frontend</strong></span> | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,js,html,css&perline=8" alt="React, Next.js, TypeScript, Tailwind, Redux, JavaScript, HTML5, CSS3" height="44"> |
+| <span style="color: #8b5cf6;"><strong>Backend</strong></span> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgres,prisma,mongodb,redis&perline=8" alt="Node.js, Express, NestJS, GraphQL, PostgreSQL, Prisma, MongoDB, Redis" height="44"> |
+| <span style="color: #06b6d4;"><strong>Cloud &amp; DevOps</strong></span> | <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,nginx,linux,git,vercel,terraform&perline=8" alt="Docker, GitHub Actions, AWS, Nginx, Linux, Git, Vercel, Terraform" height="44"> |
+| <span style="color: #22c55e;"><strong>Tools &amp; Quality</strong></span> | <img src="https://skillicons.dev/icons?i=vite,figma,postman,vscode,python,bash,jest,threejs&perline=8" alt="Vite, Figma, Postman, VS Code, Python, Bash, Jest, Three.js" height="44"> |
+| <span style="color: #f59e0b;"><strong>Currently Learning</strong></span> | <img src="https://skillicons.dev/icons?i=kubernetes,graphql,terraform&perline=3" alt="Kubernetes, GraphQL, Terraform" height="44"> |
+
+<br/>
+
+<!-- Legacy cards retained below for reference; the table above is the rendered stack. -->
+<!--
 <table>
 <tr>
 <td align="center" style="padding: 8px;">
@@ -72,6 +84,32 @@
   <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="32" style="display: block; margin: 0 auto;">
     <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">Figma</div>
+  </div>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">Vite</div>
+  </div>
+</td>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">Zustand</div>
+  </div>
+</td>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">Three.js</div>
+  </div>
+</td>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">Jest</div>
   </div>
 </td>
 </tr>
@@ -132,6 +170,32 @@
   </div>
 </td>
 </tr>
+<tr>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">NestJS</div>
+  </div>
+</td>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">GraphQL</div>
+  </div>
+</td>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">RabbitMQ</div>
+  </div>
+</td>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">Socket.IO</div>
+  </div>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -189,6 +253,32 @@
   </div>
 </td>
 </tr>
+<tr>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">GitHub Actions</div>
+  </div>
+</td>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">Nginx</div>
+  </div>
+</td>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">Python</div>
+  </div>
+</td>
+<td align="center" style="padding: 8px;">
+  <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 14px 10px; min-width: 88px;">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="32" style="display: block; margin: 0 auto;">
+    <div style="color: #e879f9; font-size: 12px; margin-top: 8px; font-weight: 600;">Bash</div>
+  </div>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -217,6 +307,7 @@
 </td>
 </tr>
 </table>
+-->
 
 </div>
 
