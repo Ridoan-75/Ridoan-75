@@ -18,33 +18,33 @@
 
 <div align="left">
 
-<table align="center" width="100%" cellpadding="14" cellspacing="0" border="1" style="width: 100%;">
+<table align="center" width="100%" cellpadding="12" cellspacing="0" border="1" style="width: 100%;">
 <thead>
 <tr>
 <th align="left" width="25%">Category</th>
-<th align="left" width="75%">Technologies</th>
+<th align="left" width="75%">Skills</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="left"><span style="color: #d946ef;"><strong>Frontend</strong></span></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,js,html,css&perline=8" alt="React, Next.js, TypeScript, Tailwind, Redux, JavaScript, HTML5, CSS3" height="44"><br><sub>React, Next.js, TypeScript, Tailwind CSS, Redux, JavaScript, HTML5, CSS3</sub></td>
+<td align="left"><table cellpadding="5" cellspacing="5" border="1"><tr><td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React" height="34"><br><sub>React</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="34"><br><sub>Next.js</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="34"><br><sub>TypeScript</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="34"><br><sub>Tailwind CSS</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="34"><br><sub>Redux</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="34"><br><sub>JavaScript</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="34"><br><sub>HTML5</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="34"><br><sub>CSS3</sub></td></tr></table></td>
 </tr>
 <tr>
 <td align="left"><span style="color: #8b5cf6;"><strong>Backend</strong></span></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgres,prisma,mongodb,redis&perline=8" alt="Node.js, Express, NestJS, GraphQL, PostgreSQL, Prisma, MongoDB, Redis" height="44"><br><sub>Node.js, Express, NestJS, GraphQL, PostgreSQL, Prisma, MongoDB, Redis</sub></td>
+<td align="left"><table cellpadding="5" cellspacing="5" border="1"><tr><td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="34"><br><sub>Node.js</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=express" alt="Express" height="34"><br><sub>Express</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" height="34"><br><sub>NestJS</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="34"><br><sub>GraphQL</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="34"><br><sub>PostgreSQL</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" height="34"><br><sub>Prisma</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="34"><br><sub>MongoDB</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="34"><br><sub>Redis</sub></td></tr></table></td>
 </tr>
 <tr>
 <td align="left"><span style="color: #06b6d4;"><strong>Cloud &amp; DevOps</strong></span></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=docker,githubactions,aws,nginx,linux,git,vercel,terraform&perline=8" alt="Docker, GitHub Actions, AWS, Nginx, Linux, Git, Vercel, Terraform" height="44"><br><sub>Docker, GitHub Actions, AWS, Nginx, Linux, Git, Vercel, Terraform</sub></td>
+<td align="left"><table cellpadding="5" cellspacing="5" border="1"><tr><td align="center"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="34"><br><sub>Docker</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="34"><br><sub>GitHub Actions</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="34"><br><sub>AWS</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="34"><br><sub>Nginx</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="34"><br><sub>Linux</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="34"><br><sub>Git</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="34"><br><sub>Vercel</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="34"><br><sub>Terraform</sub></td></tr></table></td>
 </tr>
 <tr>
 <td align="left"><span style="color: #22c55e;"><strong>Tools &amp; Quality</strong></span></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=vite,figma,postman,vscode,python,bash,jest,threejs&perline=8" alt="Vite, Figma, Postman, VS Code, Python, Bash, Jest, Three.js" height="44"><br><sub>Vite, Figma, Postman, VS Code, Python, Bash, Jest, Three.js</sub></td>
+<td align="left"><table cellpadding="5" cellspacing="5" border="1"><tr><td align="center"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="34"><br><sub>Vite</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="34"><br><sub>Figma</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="34"><br><sub>Postman</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="34"><br><sub>VS Code</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="34"><br><sub>Python</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="34"><br><sub>Bash</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="34"><br><sub>Jest</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" height="34"><br><sub>Three.js</sub></td></tr></table></td>
 </tr>
 <tr>
 <td align="left"><span style="color: #f59e0b;"><strong>Currently Learning</strong></span></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=kubernetes,graphql,terraform&perline=3" alt="Kubernetes, GraphQL, Terraform" height="44"><br><sub>Kubernetes, GraphQL, Terraform</sub></td>
+<td align="left"><table cellpadding="5" cellspacing="5" border="1"><tr><td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="34"><br><sub>Kubernetes</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="34"><br><sub>GraphQL</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="34"><br><sub>Terraform</sub></td></tr></table></td>
 </tr>
 </tbody>
 </table>
@@ -359,7 +359,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ridoan-75&layout=compact&theme=nightowl&hide_border=true" alt="WakaTime Stats" width="420"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
