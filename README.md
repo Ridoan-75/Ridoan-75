@@ -16,35 +16,35 @@
 
 ## <span style="color: #8b5cf6;">🛠️</span> Tech Stack
 
-<div align="center">
+<div align="left">
 
 <table align="center" width="100%" cellpadding="14" cellspacing="0" border="1" style="width: 100%;">
 <thead>
 <tr>
-<th align="center" width="25%">Category</th>
-<th align="center" width="75%">Technologies</th>
+<th align="left" width="25%">Category</th>
+<th align="left" width="75%">Technologies</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><span style="color: #d946ef;"><strong>Frontend</strong></span></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,js,html,css&perline=8" alt="React, Next.js, TypeScript, Tailwind, Redux, JavaScript, HTML5, CSS3" height="44"></td>
+<td align="left"><span style="color: #d946ef;"><strong>Frontend</strong></span></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,js,html,css&perline=8" alt="React, Next.js, TypeScript, Tailwind, Redux, JavaScript, HTML5, CSS3" height="44"><br><sub>React, Next.js, TypeScript, Tailwind CSS, Redux, JavaScript, HTML5, CSS3</sub></td>
 </tr>
 <tr>
-<td align="center"><span style="color: #8b5cf6;"><strong>Backend</strong></span></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgres,prisma,mongodb,redis&perline=8" alt="Node.js, Express, NestJS, GraphQL, PostgreSQL, Prisma, MongoDB, Redis" height="44"></td>
+<td align="left"><span style="color: #8b5cf6;"><strong>Backend</strong></span></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgres,prisma,mongodb,redis&perline=8" alt="Node.js, Express, NestJS, GraphQL, PostgreSQL, Prisma, MongoDB, Redis" height="44"><br><sub>Node.js, Express, NestJS, GraphQL, PostgreSQL, Prisma, MongoDB, Redis</sub></td>
 </tr>
 <tr>
-<td align="center"><span style="color: #06b6d4;"><strong>Cloud &amp; DevOps</strong></span></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker,githubactions,aws,nginx,linux,git,vercel,terraform&perline=8" alt="Docker, GitHub Actions, AWS, Nginx, Linux, Git, Vercel, Terraform" height="44"></td>
+<td align="left"><span style="color: #06b6d4;"><strong>Cloud &amp; DevOps</strong></span></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=docker,githubactions,aws,nginx,linux,git,vercel,terraform&perline=8" alt="Docker, GitHub Actions, AWS, Nginx, Linux, Git, Vercel, Terraform" height="44"><br><sub>Docker, GitHub Actions, AWS, Nginx, Linux, Git, Vercel, Terraform</sub></td>
 </tr>
 <tr>
-<td align="center"><span style="color: #22c55e;"><strong>Tools &amp; Quality</strong></span></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite,figma,postman,vscode,python,bash,jest,threejs&perline=8" alt="Vite, Figma, Postman, VS Code, Python, Bash, Jest, Three.js" height="44"></td>
+<td align="left"><span style="color: #22c55e;"><strong>Tools &amp; Quality</strong></span></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=vite,figma,postman,vscode,python,bash,jest,threejs&perline=8" alt="Vite, Figma, Postman, VS Code, Python, Bash, Jest, Three.js" height="44"><br><sub>Vite, Figma, Postman, VS Code, Python, Bash, Jest, Three.js</sub></td>
 </tr>
 <tr>
-<td align="center"><span style="color: #f59e0b;"><strong>Currently Learning</strong></span></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes,graphql,terraform&perline=3" alt="Kubernetes, GraphQL, Terraform" height="44"></td>
+<td align="left"><span style="color: #f59e0b;"><strong>Currently Learning</strong></span></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=kubernetes,graphql,terraform&perline=3" alt="Kubernetes, GraphQL, Terraform" height="44"><br><sub>Kubernetes, GraphQL, Terraform</sub></td>
 </tr>
 </tbody>
 </table>
@@ -350,12 +350,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=nightowl&force=true" alt="Top Languages" width="520"/>
 
 </div>
 
