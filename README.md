@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<table width="100%" cellpadding="14" cellspacing="0" border="1">
+<table align="center" width="100%" cellpadding="14" cellspacing="0" border="1" style="width: 100%;">
 <thead>
 <tr>
 <th align="center" width="25%">Category</th>
@@ -340,13 +340,13 @@
 
 <div align="center">
 
-<table>
+<table align="center" width="100%" cellpadding="0" cellspacing="12" style="width: 100%;">
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=nightowl&force=true" alt="GitHub Stats" width="360"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridoan-75&theme=nightowl&force=true" alt="GitHub Stats" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridoan-75&theme=github-dark&hide_border=true" alt="GitHub Streak" width="360"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridoan-75&theme=github-dark&hide_border=true" alt="GitHub Streak" width="100%"/>
 </td>
 </tr>
 </table>
@@ -355,7 +355,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=nightowl&force=true" alt="Top Languages" width="420"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridoan-75&theme=nightowl&force=true" alt="Top Languages" width="520"/>
 
 </div>
 
