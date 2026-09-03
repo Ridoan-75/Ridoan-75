@@ -1,56 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 390" width="1280" height="390" role="img" aria-labelledby="title desc">
-  <title id="title">Md Ridoan - Full Stack Developer</title>
-  <desc id="desc">A professional profile header for Md Ridoan, a full stack developer.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 560" width="1280" height="560" role="img" aria-labelledby="title desc">
+  <title id="title">Md Ridoan - Full Stack Developer System Portal</title>
+  <desc id="desc">Animated cyber-system profile header featuring Md Ridoan, a full stack developer.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#101820"/>
-      <stop offset="0.58" stop-color="#172a32"/>
-      <stop offset="1" stop-color="#0d151b"/>
-    </linearGradient>
-    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#56d6c4" stop-opacity="0.18"/>
-      <stop offset="0.55" stop-color="#56d6c4" stop-opacity="0"/>
-      <stop offset="1" stop-color="#ff8b6a" stop-opacity="0.13"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#56d6c4"/>
-      <stop offset="1" stop-color="#ff8b6a"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#b8d7d1" stroke-width="0.6" opacity="0.08"/>
-    </pattern>
-    <filter id="blur" x="-20%" y="-50%" width="140%" height="200%">
-      <feGaussianBlur stdDeviation="24"/>
-    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0f17"/><stop offset="1" stop-color="#0e1725"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00d9ff"/><stop offset="0.5" stop-color="#735cff"/><stop offset="1" stop-color="#f449c3"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#0a1224"/></linearGradient>
+    <pattern id="microgrid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1b4b73" stroke-width="0.7" opacity="0.22"/></pattern>
+    <filter id="neon"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
+    <clipPath id="portalClip"><rect x="170" y="176" width="940" height="210" rx="20"/></clipPath>
   </defs>
-  <rect width="1280" height="390" fill="url(#background)"/>
-  <rect width="1280" height="390" fill="url(#grid)"/>
-  <ellipse cx="180" cy="-20" rx="330" ry="180" fill="#56d6c4" opacity="0.14" filter="url(#blur)"/>
-  <ellipse cx="1130" cy="400" rx="360" ry="170" fill="#ff8b6a" opacity="0.1" filter="url(#blur)"/>
-  <rect width="1280" height="390" fill="url(#wash)"/>
-  <g transform="translate(96 90)">
-    <rect x="0" y="0" width="66" height="66" rx="14" fill="#15252d" stroke="#56d6c4" stroke-width="2"/>
-    <path d="M20 22h26v7H28v8h15v7H28v13h-8V22Z" fill="#56d6c4"/>
-    <circle cx="51" cy="52" r="5" fill="#ff8b6a"/>
+  <rect width="1280" height="560" fill="url(#bg)"/>
+  <rect x="28" y="0" width="1224" height="560" fill="none" stroke="#263646"/>
+  <path d="M62 40H430L480 8H800L850 40H1218" fill="none" stroke="#263646" stroke-width="7"/>
+  <path d="M62 40H430" stroke="#24405c" stroke-width="3"/><path d="M850 40H1218" stroke="#f449c3" stroke-width="3"/>
+  <rect x="606" y="27" width="68" height="27" rx="13" fill="#111c30" stroke="#30405e"/>
+  <circle cx="625" cy="40" r="5" fill="#00d9ff"><animate attributeName="opacity" values="1;.35;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="640" cy="40" r="5" fill="#735cff"><animate attributeName="opacity" values=".35;1;.35" dur="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="655" cy="40" r="5" fill="#f449c3"><animate attributeName="opacity" values="1;.35;1" dur="1.4s" begin=".7s" repeatCount="indefinite"/></circle>
+  <text x="640" y="102" text-anchor="middle" fill="#f2f6ff" font-family="Consolas,'Courier New',monospace" font-size="26" font-weight="700" letter-spacing="5">SYSTEM ACCESS</text>
+  <path d="M62 125H525M755 125H1218" stroke="#263646" stroke-width="2"/>
+  <text x="640" y="158" text-anchor="middle" fill="#6684aa" font-family="Consolas,'Courier New',monospace" font-size="12" letter-spacing="3">ENTRY POINTS • EXTERNAL SYSTEMS • INTERFACES</text>
+
+  <g clip-path="url(#portalClip)">
+    <rect x="170" y="176" width="940" height="210" rx="20" fill="url(#card)" stroke="#00d9ff" stroke-width="2"/>
+    <rect x="170" y="176" width="940" height="210" fill="url(#microgrid)"/>
+    <path d="M250 228H475M805 228H1030" stroke="#00d9ff" stroke-width="3" filter="url(#neon)"/>
+    <path d="M250 228H475M805 228H1030" stroke="#00d9ff" stroke-width="1"/>
+    <path d="M250 228H475" stroke="#735cff" stroke-width="2"><animate attributeName="stroke-dasharray" values="0 225;225 0;0 225" dur="4s" repeatCount="indefinite"/></path>
+    <text x="640" y="245" text-anchor="middle" fill="#00d9ff" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing="4">PRIMARY SYSTEM PORTAL</text>
+    <text x="640" y="300" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="800" letter-spacing="2">MD RIDOAN</text>
+    <text x="640" y="331" text-anchor="middle" fill="#9db8db" font-family="Arial,Helvetica,sans-serif" font-size="18">Full Stack Developer • React • Node.js • Cloud</text>
+    <path d="M260 359H520M760 359H1020" stroke="#735cff" stroke-width="2"/>
+    <g font-family="Consolas,'Courier New',monospace" font-size="11" font-weight="700">
+      <rect x="430" y="371" width="92" height="26" rx="13" fill="#101a35" stroke="#155b83"/><text x="476" y="388" text-anchor="middle" fill="#00d9ff">PROJECTS</text>
+      <rect x="534" y="371" width="78" height="26" rx="13" fill="#101a35" stroke="#155b83"/><text x="573" y="388" text-anchor="middle" fill="#00d9ff">BLOGS</text>
+      <rect x="624" y="371" width="70" height="26" rx="13" fill="#101a35" stroke="#155b83"/><text x="659" y="388" text-anchor="middle" fill="#00d9ff">LABS</text>
+      <rect x="706" y="371" width="112" height="26" rx="13" fill="#101a35" stroke="#155b83"/><text x="762" y="388" text-anchor="middle" fill="#00d9ff">ABOUT ME</text>
+    </g>
   </g>
-  <g transform="translate(96 190)">
-    <text fill="#a6c2c0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">MD RIDOAN</text>
-    <text y="58" fill="#f4f7f5" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Full Stack Developer</text>
-    <rect y="82" width="72" height="4" rx="2" fill="url(#accent)"/>
-    <text y="123" fill="#c0d1d0" font-family="Arial, Helvetica, sans-serif" font-size="19">Crafting thoughtful products from interface to infrastructure.</text>
+
+  <g transform="translate(80 426)">
+    <g><rect width="350" height="78" rx="10" fill="#071426" stroke="#00d9ff"/><circle cx="38" cy="39" r="17" fill="none" stroke="#00d9ff" stroke-width="2"/><circle cx="38" cy="39" r="5" fill="#f449c3"><animate attributeName="r" values="4;8;4" dur="1.8s" repeatCount="indefinite"/></circle><path d="M15 39H61M38 16V62" stroke="#00d9ff" opacity=".55"/><text x="75" y="26" fill="#00d9ff" font-family="Consolas,'Courier New',monospace" font-size="10" font-weight="700" letter-spacing="1">FRONTEND SYSTEM</text><text x="75" y="48" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Interface Craft</text></g>
+    <g transform="translate(425)"><rect width="350" height="78" rx="10" fill="#071426" stroke="#43e9a6"/><circle cx="38" cy="39" r="13" fill="none" stroke="#43e9a6" stroke-width="2"/><circle cx="22" cy="39" r="7" fill="#43e9a6"/><circle cx="54" cy="39" r="7" fill="#00d9ff"/><path d="M29 39H47" stroke="#43e9a6" stroke-width="2"/><text x="75" y="26" fill="#43e9a6" font-family="Consolas,'Courier New',monospace" font-size="10" font-weight="700" letter-spacing="1">BACKEND SYSTEM</text><text x="75" y="48" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Reliable APIs</text></g>
+    <g transform="translate(850)"><rect width="350" height="78" rx="10" fill="#071426" stroke="#f0b44d"/><path d="M24 49L39 26 54 49Z" fill="none" stroke="#f0b44d" stroke-width="2"/><path d="M19 54H59" stroke="#f449c3" stroke-width="3"/><text x="75" y="26" fill="#f0b44d" font-family="Consolas,'Courier New',monospace" font-size="10" font-weight="700" letter-spacing="1">DELIVERY SYSTEM</text><text x="75" y="48" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Cloud &amp; DevOps</text></g>
   </g>
-  <g transform="translate(96 346)" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">
-    <text fill="#56d6c4">REACT</text>
-    <circle cx="88" cy="-5" r="2" fill="#ff8b6a"/>
-    <text x="108" fill="#56d6c4">NODE.JS</text>
-    <circle cx="220" cy="-5" r="2" fill="#ff8b6a"/>
-    <text x="240" fill="#56d6c4">CLOUD</text>
-  </g>
-  <g transform="translate(1005 72)" fill="none" stroke="#b8d7d1" opacity="0.38">
-    <circle cx="72" cy="72" r="72" stroke-width="1"/>
-    <circle cx="72" cy="72" r="47" stroke-width="1" stroke-dasharray="3 8"/>
-    <path d="M72 0v144M0 72h144" stroke-width="1"/>
-  </g>
-  <circle cx="1077" cy="144" r="5" fill="#ff8b6a"/>
-  <path d="M0 1h1280" stroke="url(#accent)" stroke-width="2"/>
+  <path d="M62 548V520H170M1218 548V520H1110" fill="none" stroke="url(#edge)" stroke-width="2"/>
 </svg>

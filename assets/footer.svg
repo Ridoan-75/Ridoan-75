@@ -1,30 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 220" width="1280" height="220" role="img" aria-labelledby="title desc">
-  <title id="title">Let's build something useful</title>
-  <desc id="desc">A closing banner inviting collaboration with Md Ridoan.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 260" width="1280" height="260" role="img" aria-labelledby="title desc">
+  <title id="title">Md Ridoan system connection status</title>
+  <desc id="desc">Animated cyber-system footer with a live connection status.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#101820"/>
-      <stop offset="1" stop-color="#1d292d"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#56d6c4"/>
-      <stop offset="1" stop-color="#ff8b6a"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#b8d7d1" stroke-width="0.6" opacity="0.07"/>
-    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0f17"/><stop offset="1" stop-color="#101b2a"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00d9ff"/><stop offset="0.5" stop-color="#735cff"/><stop offset="1" stop-color="#f449c3"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1b4b73" stroke-width="0.7" opacity="0.2"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="1280" height="220" fill="url(#background)"/>
-  <rect width="1280" height="220" fill="url(#grid)"/>
-  <path d="M0 1h1280" stroke="url(#accent)" stroke-width="2"/>
-  <g transform="translate(96 66)">
-    <text fill="#a6c2c0" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">OPEN TO GOOD IDEAS</text>
-    <text y="48" fill="#f4f7f5" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700">Let's build something useful.</text>
-    <text y="82" fill="#c0d1d0" font-family="Arial, Helvetica, sans-serif" font-size="16">Thanks for stopping by. Reach out and let's make it real.</text>
+  <rect width="1280" height="260" fill="url(#bg)"/><rect width="1280" height="260" fill="url(#grid)"/>
+  <path d="M62 42H430L480 8H800L850 42H1218" fill="none" stroke="#263646" stroke-width="7"/>
+  <path d="M62 42H430M850 42H1218" stroke="#263646" stroke-width="3"/><path d="M930 42H1218" stroke="#f449c3" stroke-width="3"/>
+  <rect x="606" y="28" width="68" height="27" rx="13" fill="#111c30" stroke="#30405e"/>
+  <circle cx="625" cy="41" r="5" fill="#00d9ff"><animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></circle><circle cx="640" cy="41" r="5" fill="#735cff"/><circle cx="655" cy="41" r="5" fill="#f449c3"><animate attributeName="opacity" values=".25;1;.25" dur="1.2s" repeatCount="indefinite"/></circle>
+  <g transform="translate(110 104)">
+    <text fill="#6684aa" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing="3">SYSTEM CONNECTION</text>
+    <text y="48" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800">Thanks for visiting.</text>
+    <text y="82" fill="#9db8db" font-family="Arial,Helvetica,sans-serif" font-size="16">Let's connect, collaborate, and ship something meaningful.</text>
   </g>
-  <g transform="translate(1064 90)">
-    <circle cx="24" cy="24" r="24" fill="#15252d" stroke="#56d6c4" stroke-width="2"/>
-    <path d="M14 24h19M26 17l7 7-7 7" fill="none" stroke="#56d6c4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(960 112)">
+    <rect width="210" height="62" rx="10" fill="#071426" stroke="#155b83"/>
+    <circle cx="28" cy="31" r="7" fill="#43e9a6" filter="url(#glow)"><animate attributeName="opacity" values="1;.35;1" dur="1s" repeatCount="indefinite"/></circle>
+    <text x="48" y="27" fill="#43e9a6" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="700">STATUS: ONLINE</text>
+    <text x="48" y="46" fill="#6684aa" font-family="Consolas,'Courier New',monospace" font-size="11">md-ridoan.dev</text>
   </g>
-  <path d="M96 174h1088" stroke="#b8d7d1" stroke-width="1" opacity="0.2"/>
+  <path d="M62 220H1218" stroke="#263646"/><path d="M62 220H390" stroke="url(#edge)" stroke-width="2"/>
 </svg>
