@@ -1,94 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 350" width="1280" height="350">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 390" width="1280" height="390" role="img" aria-labelledby="title desc">
+  <title id="title">Md Ridoan - Full Stack Developer</title>
+  <desc id="desc">A professional profile header for Md Ridoan, a full stack developer.</desc>
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0a0f"/>
-      <stop offset="50%" stop-color="#1a0b2e"/>
-      <stop offset="100%" stop-color="#0f0a1a"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101820"/>
+      <stop offset="0.58" stop-color="#172a32"/>
+      <stop offset="1" stop-color="#0d151b"/>
     </linearGradient>
-    <linearGradient id="arc" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#8b5cf6" stop-opacity="0.7"/>
-      <stop offset="50%" stop-color="#d946ef" stop-opacity="0.9"/>
-      <stop offset="70%" stop-color="#8b5cf6" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#56d6c4" stop-opacity="0.18"/>
+      <stop offset="0.55" stop-color="#56d6c4" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff8b6a" stop-opacity="0.13"/>
     </linearGradient>
-    <linearGradient id="textGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#c084fc"/>
-      <stop offset="50%" stop-color="#e879f9"/>
-      <stop offset="100%" stop-color="#c084fc"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#56d6c4"/>
+      <stop offset="1" stop-color="#ff8b6a"/>
     </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#b8d7d1" stroke-width="0.6" opacity="0.08"/>
+    </pattern>
+    <filter id="blur" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="24"/>
     </filter>
   </defs>
-
-  <!-- Background -->
-  <rect width="1280" height="350" fill="url(#bg)"/>
-
-  <!-- Subtle grid pattern -->
-  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8b5cf6" stroke-width="0.3" opacity="0.1"/>
-  </pattern>
-  <rect width="1280" height="350" fill="url(#grid)"/>
-
-  <!-- Large glowing arc behind avatar -->
-  <circle cx="640" cy="110" r="200" fill="none" stroke="url(#arc)" stroke-width="2" opacity="0.3" filter="url(#softGlow)"/>
-  <circle cx="640" cy="110" r="170" fill="none" stroke="url(#arc)" stroke-width="1.5" opacity="0.2"/>
-  <circle cx="640" cy="110" r="140" fill="none" stroke="url(#arc)" stroke-width="1" opacity="0.15"/>
-
-  <!-- Avatar placeholder -->
-  <circle cx="640" cy="100" r="55" fill="#12101a" stroke="url(#arc)" stroke-width="3"/>
-  <circle cx="640" cy="100" r="55" fill="none" stroke="#d946ef" stroke-width="1" opacity="0.3"/>
-  <text x="640" y="108" text-anchor="middle" fill="#e879f9" font-family="'Courier New', monospace" font-size="26" font-weight="bold" letter-spacing="2">MR</text>
-
-  <!-- Main title -->
-  <text x="640" y="215" text-anchor="middle" fill="url(#textGlow)" font-family="'Courier New', monospace" font-size="52" font-weight="bold" filter="url(#glow)" letter-spacing="6">HELLO WORLD</text>
-
-  <!-- Subtitle -->
-  <text x="640" y="250" text-anchor="middle" fill="#a78bfa" font-family="'Courier New', monospace" font-size="16" font-weight="500" letter-spacing="8">WELCOME TO MY PROFILE</text>
-
-  <!-- Left side: GitHub -->
-  <g transform="translate(40, 310)">
-    <path d="M 0 8 L 0 0 L 8 0 L 8 8 Z M 2 2 L 2 6 L 6 6 L 6 2 Z" fill="none" stroke="#8b5cf6" stroke-width="1.5" opacity="0.8"/>
-    <circle cx="4" cy="4" r="3" fill="none" stroke="#8b5cf6" stroke-width="1.5" opacity="0.8"/>
-    <text x="18" y="6" fill="#8b5cf6" font-family="'Courier New', monospace" font-size="13" font-weight="500">github.com/Ridoan-75</text>
+  <rect width="1280" height="390" fill="url(#background)"/>
+  <rect width="1280" height="390" fill="url(#grid)"/>
+  <ellipse cx="180" cy="-20" rx="330" ry="180" fill="#56d6c4" opacity="0.14" filter="url(#blur)"/>
+  <ellipse cx="1130" cy="400" rx="360" ry="170" fill="#ff8b6a" opacity="0.1" filter="url(#blur)"/>
+  <rect width="1280" height="390" fill="url(#wash)"/>
+  <g transform="translate(96 90)">
+    <rect x="0" y="0" width="66" height="66" rx="14" fill="#15252d" stroke="#56d6c4" stroke-width="2"/>
+    <path d="M20 22h26v7H28v8h15v7H28v13h-8V22Z" fill="#56d6c4"/>
+    <circle cx="51" cy="52" r="5" fill="#ff8b6a"/>
   </g>
-
-  <!-- Right side: Email -->
-  <g transform="translate(1240, 310)">
-    <rect x="-60" y="0" width="60" height="14" fill="none" stroke="#d946ef" stroke-width="1.5" opacity="0.8"/>
-    <path d="M -52 4 L -36 4 L -44 10 L -44 4 Z M -52 10 L -36 10 L -44 4 L -44 10 Z" fill="none" stroke="#d946ef" stroke-width="1" opacity="0.8"/>
-    <text x="-62" y="6" text-anchor="end" fill="#d946ef" font-family="'Courier New', monospace" font-size="13" font-weight="500">ridoan437@gmail.com</text>
+  <g transform="translate(96 190)">
+    <text fill="#a6c2c0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">MD RIDOAN</text>
+    <text y="58" fill="#f4f7f5" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Full Stack Developer</text>
+    <rect y="82" width="72" height="4" rx="2" fill="url(#accent)"/>
+    <text y="123" fill="#c0d1d0" font-family="Arial, Helvetica, sans-serif" font-size="19">Crafting thoughtful products from interface to infrastructure.</text>
   </g>
-
-  <!-- Bottom left geometric decoration -->
-  <g opacity="0.4">
-    <path d="M 0 350 L 0 260 L 50 260" fill="none" stroke="#8b5cf6" stroke-width="1.5"/>
-    <path d="M 0 350 L 0 290 L 30 290" fill="none" stroke="#d946ef" stroke-width="1"/>
-    <line x1="10" y1="350" x2="10" y2="270" stroke="#8b5cf6" stroke-width="0.5" opacity="0.5"/>
-    <line x1="20" y1="350" x2="20" y2="280" stroke="#d946ef" stroke-width="0.5" opacity="0.5"/>
+  <g transform="translate(96 346)" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">
+    <text fill="#56d6c4">REACT</text>
+    <circle cx="88" cy="-5" r="2" fill="#ff8b6a"/>
+    <text x="108" fill="#56d6c4">NODE.JS</text>
+    <circle cx="220" cy="-5" r="2" fill="#ff8b6a"/>
+    <text x="240" fill="#56d6c4">CLOUD</text>
   </g>
-
-  <!-- Bottom right geometric decoration -->
-  <g opacity="0.4">
-    <path d="M 1280 350 L 1280 260 L 1230 260" fill="none" stroke="#8b5cf6" stroke-width="1.5"/>
-    <path d="M 1280 350 L 1280 290 L 1250 290" fill="none" stroke="#d946ef" stroke-width="1"/>
-    <line x1="1270" y1="350" x2="1270" y2="270" stroke="#8b5cf6" stroke-width="0.5" opacity="0.5"/>
-    <line x1="1260" y1="350" x2="1260" y2="280" stroke="#d946ef" stroke-width="0.5" opacity="0.5"/>
+  <g transform="translate(1005 72)" fill="none" stroke="#b8d7d1" opacity="0.38">
+    <circle cx="72" cy="72" r="72" stroke-width="1"/>
+    <circle cx="72" cy="72" r="47" stroke-width="1" stroke-dasharray="3 8"/>
+    <path d="M72 0v144M0 72h144" stroke-width="1"/>
   </g>
-
-  <!-- Top subtle accent lines -->
-  <line x1="0" y1="1" x2="1280" y2="1" stroke="url(#arc)" stroke-width="1" opacity="0.3"/>
+  <circle cx="1077" cy="144" r="5" fill="#ff8b6a"/>
+  <path d="M0 1h1280" stroke="url(#accent)" stroke-width="2"/>
 </svg>

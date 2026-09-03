@@ -366,22 +366,6 @@
 
 ---
 
-## <span style="color: #d946ef;">🏆</span> Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|:---|:---|
-| **DecodeMinds** | Freelance brand - Full stack web development |
-| **ridoan.pro.bd** | Portfolio platform (Next.js + Prisma + PostgreSQL) |
-| **Royal Port Attire** | E-commerce platform for Craftedmart Agency |
-| **Learning Platform** | Public bilingual educational system |
-| **REELCRAFT** | Video agency website with admin panel & booking |
-
-</div>
-
----
-
 ## <span style="color: #8b5cf6;">🌐</span> Connect With Me
 
 <div align="center">
@@ -389,7 +373,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://ridoan.pro.bd)
 [![Gmail](https://img.shields.io/badge/Gmail-d946ef?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ridoan437@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/md-ridoan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Ridoan-75)
 [![Twitter](https://img.shields.io/badge/Twitter-a855f7?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/ridoan_dev)
 
 </div>
