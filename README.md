@@ -355,15 +355,19 @@
 
 ---
 
-## <span style="color: #f59e0b;">🏆</span> GitHub Achievements
+## <span style="color: #06b6d4;">📡</span> GitHub Activity
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Ridoan-75" alt="GitHub profile trophies" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=nightowl" alt="GitHub metrics dashboard" width="100%" />
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=nightowl" alt="GitHub achievement dashboard" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ridoan-75/Ridoan-75/output/github-contribution-grid-snake-dark.svg" alt="Ridoan-75 GitHub contribution snake" width="100%" />
+</picture>
 
 </div>
 
