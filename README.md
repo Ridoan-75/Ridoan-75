@@ -369,4 +369,14 @@
 <div align="center">
 <img src="./assets/footer.svg" width="100%" alt="Thanks for visiting Md Ridoan Hossen's portfolio" />
 
+<table align="center" cellpadding="4" cellspacing="0" style="margin-top: -4px;">
+<tr>
+<td><a href="https://ridoan.pro.bd"><img src="./assets/footer-portfolio.svg" alt="Portfolio" width="190" /></a></td>
+<td><a href="mailto:ridoan437@gmail.com"><img src="./assets/footer-email.svg" alt="Email" width="190" /></a></td>
+<td><a href="https://www.linkedin.com/in/md-ridoan"><img src="./assets/footer-linkedin.svg" alt="LinkedIn" width="190" /></a></td>
+<td><a href="https://github.com/Ridoan-75"><img src="./assets/footer-github.svg" alt="GitHub" width="190" /></a></td>
+<td><a href="https://twitter.com/ridoan_dev"><img src="./assets/footer-twitter.svg" alt="Twitter" width="190" /></a></td>
+</tr>
+</table>
+
 </div>
