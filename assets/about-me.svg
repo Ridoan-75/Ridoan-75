@@ -7,6 +7,20 @@
     .s { fill: #a5d6ff; }
     .c { fill: #8b949e; font-style: italic; }
     .b { fill: #c9d1d9; }
+    .code-line { opacity: 0; animation: reveal-line 0.55s ease-out forwards; }
+    .line-1 { animation-delay: 0.15s; }
+    .line-2 { animation-delay: 0.3s; }
+    .line-3 { animation-delay: 0.45s; }
+    .line-4 { animation-delay: 0.6s; }
+    .line-5 { animation-delay: 0.75s; }
+    .line-6 { animation-delay: 0.9s; }
+    .line-7 { animation-delay: 1.05s; }
+    .line-8 { animation-delay: 1.2s; }
+    .cursor { animation: blink-cursor 1.1s steps(2, jump-none) infinite; }
+    .window-dot { animation: pulse-dot 2.8s ease-in-out infinite; }
+    @keyframes reveal-line { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink-cursor { 50% { opacity: 0; } }
+    @keyframes pulse-dot { 50% { opacity: 0.55; } }
   </style>
 
   <rect x="1" y="1" width="838" height="428" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
@@ -14,20 +28,20 @@
   <rect x="1" y="33" width="838" height="12" fill="#161b22"/>
   <line x1="1" y1="45" x2="839" y2="45" stroke="#30363d" stroke-width="1"/>
 
-  <circle cx="28" cy="23" r="6" fill="#ff5f57"/>
-  <circle cx="50" cy="23" r="6" fill="#febc2e"/>
-  <circle cx="72" cy="23" r="6" fill="#28c840"/>
+  <circle class="window-dot" cx="28" cy="23" r="6" fill="#ff5f57"/>
+  <circle class="window-dot" cx="50" cy="23" r="6" fill="#febc2e" style="animation-delay: 0.2s"/>
+  <circle class="window-dot" cx="72" cy="23" r="6" fill="#28c840" style="animation-delay: 0.4s"/>
   <text x="420" y="28" text-anchor="middle" fill="#8b949e" font-size="13">about-me.ts</text>
 
   <g>
-    <text x="32" y="86"><tspan class="k">const</tspan><tspan class="v"> ridoan </tspan><tspan class="b">= {</tspan></text>
-    <text x="58" y="118"><tspan class="p">name</tspan><tspan class="b">: </tspan><tspan class="s">"Md Ridoan Hossen"</tspan><tspan class="b">,</tspan></text>
-    <text x="58" y="150"><tspan class="p">location</tspan><tspan class="b">: </tspan><tspan class="s">"Chittagong, Bangladesh 🇧🇩"</tspan><tspan class="b">,</tspan></text>
-    <text x="58" y="182"><tspan class="p">role</tspan><tspan class="b">: </tspan><tspan class="s">"Full Stack Developer"</tspan><tspan class="b">,</tspan></text>
-    <text x="58" y="246"><tspan class="p">stack</tspan><tspan class="b">: [</tspan><tspan class="s">"Next.js"</tspan><tspan class="b">, </tspan><tspan class="s">"TypeScript"</tspan><tspan class="b">, </tspan><tspan class="s">"Node.js"</tspan><tspan class="b">, </tspan><tspan class="s">"PostgreSQL"</tspan><tspan class="b">, </tspan><tspan class="s">"Prisma"</tspan><tspan class="b">],</tspan></text>
-    <text x="58" y="278"><tspan class="p">learning</tspan><tspan class="b">: [</tspan><tspan class="s">"Docker 🐳"</tspan><tspan class="b">, </tspan><tspan class="s">"System Design"</tspan><tspan class="b">, </tspan><tspan class="s">"TanStack Query"</tspan><tspan class="b">],</tspan></text>
-    <text x="58" y="310"><tspan class="p">email</tspan><tspan class="b">: </tspan><tspan class="s">"ridoan437@gmail.com"</tspan><tspan class="b">,</tspan></text>
-    <text x="58" y="342"><tspan class="p">openToWork</tspan><tspan class="b">: </tspan><tspan class="k">true</tspan><tspan class="b">,</tspan></text>
-    <text x="32" y="374"><tspan class="b">};</tspan></text>
+    <text class="code-line line-1" x="32" y="86"><tspan class="k">const</tspan><tspan class="v"> ridoan </tspan><tspan class="b">= {</tspan></text>
+    <text class="code-line line-2" x="58" y="118"><tspan class="p">name</tspan><tspan class="b">: </tspan><tspan class="s">"Md Ridoan Hossen"</tspan><tspan class="b">,</tspan></text>
+    <text class="code-line line-3" x="58" y="150"><tspan class="p">location</tspan><tspan class="b">: </tspan><tspan class="s">"Chittagong, Bangladesh 🇧🇩"</tspan><tspan class="b">,</tspan></text>
+    <text class="code-line line-4" x="58" y="182"><tspan class="p">role</tspan><tspan class="b">: </tspan><tspan class="s">"Full Stack Developer"</tspan><tspan class="b">,</tspan></text>
+    <text class="code-line line-5" x="58" y="246"><tspan class="p">stack</tspan><tspan class="b">: [</tspan><tspan class="s">"Next.js"</tspan><tspan class="b">, </tspan><tspan class="s">"TypeScript"</tspan><tspan class="b">, </tspan><tspan class="s">"Node.js"</tspan><tspan class="b">, </tspan><tspan class="s">"PostgreSQL"</tspan><tspan class="b">, </tspan><tspan class="s">"Prisma"</tspan><tspan class="b">],</tspan></text>
+    <text class="code-line line-6" x="58" y="278"><tspan class="p">learning</tspan><tspan class="b">: [</tspan><tspan class="s">"Docker 🐳"</tspan><tspan class="b">, </tspan><tspan class="s">"System Design"</tspan><tspan class="b">, </tspan><tspan class="s">"TanStack Query"</tspan><tspan class="b">],</tspan></text>
+    <text class="code-line line-7" x="58" y="310"><tspan class="p">email</tspan><tspan class="b">: </tspan><tspan class="s">"ridoan437@gmail.com"</tspan><tspan class="b">,</tspan></text>
+    <text class="code-line line-8" x="58" y="342"><tspan class="p">openToWork</tspan><tspan class="b">: </tspan><tspan class="k">true</tspan><tspan class="b">,</tspan></text>
+    <text class="code-line line-8" x="32" y="374"><tspan class="b">};</tspan><tspan class="cursor">|</tspan></text>
   </g>
 </svg>
