@@ -1,0 +1,21 @@
+name: Generate 3D Contribution Profile
+
+on:
+  push:
+    paths:
+      - 'README.md'
+      - '.github/workflows/profile-3d.yml'
+  schedule:
+    - cron: '15 18 * * 0'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

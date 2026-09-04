@@ -355,12 +355,15 @@
 
 ---
 
-## <span style="color: #8b5cf6;">⏱️</span> WakaTime Statistics
+## <span style="color: #f59e0b;">🏆</span> GitHub Achievements
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github-trophies.vercel.app/?username=Ridoan-75" alt="GitHub profile trophies" width="100%" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridoan-75&theme=nightowl" alt="GitHub achievement dashboard" width="100%" />
 
 </div>
 
