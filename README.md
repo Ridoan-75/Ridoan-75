@@ -4,6 +4,8 @@
 
 </div>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ---
 
 ## <span style="color: #d946ef;">👨‍💻</span> About Me
