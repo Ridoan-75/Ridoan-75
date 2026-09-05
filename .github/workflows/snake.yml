@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: Ridoan-75
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=ef4444&color_dots=%23fecaca,%23fca5a5,%23f87171,%23dc2626,%23991b1b
-            dist/github-contribution-grid-snake-dark.svg?color_snake=ef4444&color_dots=%23fecaca,%23fca5a5,%23f87171,%23dc2626,%23991b1b
+            dist/github-contribution-grid-snake.svg?color_snake=ef4444&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
+            dist/github-contribution-grid-snake-dark.svg?color_snake=ef4444&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: crazy-max/ghaction-github-pages@v4
