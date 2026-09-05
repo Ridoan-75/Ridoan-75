@@ -44,7 +44,7 @@
 </tr>
 <tr>
 <td align="left"><span style="color: #f59e0b;"><strong>Currently Learning</strong></span></td>
-<td align="left"><table cellpadding="9" cellspacing="9" border="1"><tr><td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="50"><br><sub><strong>Kubernetes</strong></sub></td><td align="center"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50"><br><sub><strong>GraphQL</strong></sub></td><td align="center"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="50"><br><sub><strong>Terraform</strong></sub></td></tr></table></td>
+<td align="left"><table cellpadding="9" cellspacing="9" border="1"><tr><td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" height="50"><br><sub><strong>C</strong></sub></td><td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50"><br><sub><strong>C++</strong></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="DBMS" height="50"><br><sub><strong>DBMS</strong></sub></td><td align="center"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="Data Structures and Algorithms" height="50"><br><sub><strong>DSA</strong></sub></td><td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="50"><br><sub><strong>Python</strong></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" alt="Competitive Programming" height="50"><br><sub><strong>Competitive</strong><br><strong>Programming</strong></sub></td></tr></table></td>
 </tr>
 </tbody>
 </table>
@@ -312,20 +312,20 @@
 <tr>
 <td align="center" width="33%" style="padding: 8px;">
   <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 18px 14px; min-width: 120px;">
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="36" style="display: block; margin: 0 auto;">
-    <div style="color: #c084fc; font-size: 13px; margin-top: 10px; font-weight: 600;">Kubernetes</div>
+    <img src="https://skillicons.dev/icons?i=c" alt="C" height="36" style="display: block; margin: 0 auto;">
+    <div style="color: #c084fc; font-size: 13px; margin-top: 10px; font-weight: 600;">C</div>
   </div>
 </td>
 <td align="center" width="33%" style="padding: 8px;">
   <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 18px 14px; min-width: 120px;">
-    <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="36" style="display: block; margin: 0 auto;">
-    <div style="color: #c084fc; font-size: 13px; margin-top: 10px; font-weight: 600;">GraphQL</div>
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="36" style="display: block; margin: 0 auto;">
+    <div style="color: #c084fc; font-size: 13px; margin-top: 10px; font-weight: 600;">C++</div>
   </div>
 </td>
 <td align="center" width="33%" style="padding: 8px;">
   <div style="background: #12101a; border: 1px solid #2d1b4e; border-radius: 10px; padding: 18px 14px; min-width: 120px;">
-    <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="36" style="display: block; margin: 0 auto;">
-    <div style="color: #c084fc; font-size: 13px; margin-top: 10px; font-weight: 600;">Terraform</div>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="36" style="display: block; margin: 0 auto;">
+    <div style="color: #c084fc; font-size: 13px; margin-top: 10px; font-weight: 600;">Python</div>
   </div>
 </td>
 </tr>

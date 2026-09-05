@@ -39,9 +39,10 @@
     <text class="code-line line-3" x="58" y="150"><tspan class="p">location</tspan><tspan class="b">: </tspan><tspan class="s">"Chittagong, Bangladesh 🇧🇩"</tspan><tspan class="b">,</tspan></text>
     <text class="code-line line-4" x="58" y="182"><tspan class="p">role</tspan><tspan class="b">: </tspan><tspan class="s">"Full Stack Developer"</tspan><tspan class="b">,</tspan></text>
     <text class="code-line line-5" x="58" y="246"><tspan class="p">stack</tspan><tspan class="b">: [</tspan><tspan class="s">"Next.js"</tspan><tspan class="b">, </tspan><tspan class="s">"TypeScript"</tspan><tspan class="b">, </tspan><tspan class="s">"Node.js"</tspan><tspan class="b">, </tspan><tspan class="s">"PostgreSQL"</tspan><tspan class="b">, </tspan><tspan class="s">"Prisma"</tspan><tspan class="b">],</tspan></text>
-    <text class="code-line line-6" x="58" y="278"><tspan class="p">learning</tspan><tspan class="b">: [</tspan><tspan class="s">"Docker 🐳"</tspan><tspan class="b">, </tspan><tspan class="s">"System Design"</tspan><tspan class="b">, </tspan><tspan class="s">"TanStack Query"</tspan><tspan class="b">],</tspan></text>
-    <text class="code-line line-7" x="58" y="310"><tspan class="p">email</tspan><tspan class="b">: </tspan><tspan class="s">"ridoan437@gmail.com"</tspan><tspan class="b">,</tspan></text>
-    <text class="code-line line-8" x="58" y="342"><tspan class="p">openToWork</tspan><tspan class="b">: </tspan><tspan class="k">true</tspan><tspan class="b">,</tspan></text>
-    <text class="code-line line-8" x="32" y="374"><tspan class="b">};</tspan><tspan class="cursor">|</tspan></text>
+    <text class="code-line line-6" x="58" y="278"><tspan class="p">learning</tspan><tspan class="b">: [</tspan><tspan class="s">"C / C++"</tspan><tspan class="b">, </tspan><tspan class="s">"Database Management"</tspan><tspan class="b">,</tspan></text>
+    <text class="code-line line-6" x="162" y="300"><tspan class="s">"DSA"</tspan><tspan class="b">, </tspan><tspan class="s">"Python"</tspan><tspan class="b">, </tspan><tspan class="s">"Competitive Programming"</tspan><tspan class="b">],</tspan></text>
+    <text class="code-line line-7" x="58" y="332"><tspan class="p">email</tspan><tspan class="b">: </tspan><tspan class="s">"ridoan437@gmail.com"</tspan><tspan class="b">,</tspan></text>
+    <text class="code-line line-8" x="58" y="364"><tspan class="p">openToWork</tspan><tspan class="b">: </tspan><tspan class="k">true</tspan><tspan class="b">,</tspan></text>
+    <text class="code-line line-8" x="32" y="396"><tspan class="b">};</tspan><tspan class="cursor">|</tspan></text>
   </g>
 </svg>
